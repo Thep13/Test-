@@ -547,6 +547,45 @@ http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163884.m3u8
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
 
 
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_1.png" group-title="POLAND",PL: ELEVEN SPORTS 1
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/880
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_2.png" group-title="POLAND",PL: ELEVEN SPORTS 2
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/881
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_3.png" group-title="POLAND",PL: ELEVEN SPORTS 3
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/882
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_4.png" group-title="POLAND",PL: ELEVEN SPORTS 4
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/883
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/polsatsport.png" group-title="POLAND",PL: POLSAT SPORT 1
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/34309
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/polsatsportextra.png" group-title="POLAND",PL: POLSAT SPORT 2
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/886
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/polsatsportnews.png" group-title="POLAND",PL: POLSAT SPORT 3
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/887
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/polsatsportfight.png" group-title="POLAND",PL: POLSAT SPORT FIGHT
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/888
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium1.png" group-title="POLAND",PL: POLSAT SPORT PREMIUM 1
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/870
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium2.png" group-title="POLAND",PL: POLSAT SPORT PREMIUM 2
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/871
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_3.png" group-title="POLAND",PL: POLSAT SPORT EXTRA 3
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/872
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_4.png" group-title="POLAND",PL: POLSAT SPORT EXTRA 4
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/873
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_1.png" group-title="POLAND",PL: POLSAT SPORT EXTRA 1
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/874
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_2.png" group-title="POLAND",PL: POLSAT SPORT PEXTRA 2
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/875
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="POLAND",PL: EUROSPORT 1
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/884
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/eurosport2.png" group-title="POLAND",PL: EUROSPORT 2
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/885
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="POLAND",PL: FIGHTBOX
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/942
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/golfchannel.png" group-title="POLAND",PL: GOLF ZONE
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/953
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/poland/motowizja.png" group-title="POLAND",PL: MOTOWIZJA
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/967
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6dmA0EGGrHvqr2yngNATDKb59NDUCp7f9mh8hjbOJg&s=10" group-title="TSN SPORTS",TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
