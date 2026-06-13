@@ -220,6 +220,50 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" group-title="TRUE & EURO",True Sports 7 (Ga 24 Jam)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/bein1.png" group-title="TRUE & EURO",Bein 1 TH
+http://6395online.com:8080//Iptv6988/0905692638/202
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/bein1.png" group-title="TRUE & EURO",Bein 1 TH
+http://6395online.com:8080//Iptv6988/0905692638/203
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/bein2.png" group-title="TRUE & EURO",Bein 2 TH
+http://6395online.com:8080//Iptv6988/0905692638/204
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/bein3.png" group-title="TRUE & EURO",Bein 3 TH
+http://6395online.com:8080//Iptv6988/0905692638/205
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/hd-tsport1.png" group-title="TRUE & EURO",TrueSport HD1
+http://6395online.com:8080//Iptv6988/0905692638/206
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/hd-tsport2.png" group-title="TRUE & EURO",TrueSport HD2
+http://6395online.com:8080//Iptv6988/0905692638/207
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/hd-tsport3.png" group-title="TRUE & EURO",TrueSport HD3
+http://6395online.com:8080//Iptv6988/0905692638/208
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/hd-tsport4.png" group-title="TRUE & EURO",TrueSport HD4
+http://6395online.com:8080//Iptv6988/0905692638/209
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/sd-tsport5.png" group-title="TRUE & EURO",TrueSport 5
+http://6395online.com:8080//Iptv6988/0905692638/210
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/sd-tsport7.png" group-title="TRUE & EURO",TrueSport 7
+http://6395online.com:8080//Iptv6988/0905692638/211
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/hd-tennis.png" group-title="TRUE & EURO",True tennis
+http://6395online.com:8080//Iptv6988/0905692638/212
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/IDStation.jpg" group-title="TRUE & EURO",ID Station
+http://6395online.com:8080//Iptv6988/0905692638/214
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/golf2.jpg" group-title="TRUE & EURO",Golf 2 HD
+http://6395online.com:8080//Iptv6988/0905692638/217
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/hd-spotv.png" group-title="TRUE & EURO",SPOTV 1
+http://6395online.com:8080//Iptv6988/0905692638/219
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/hd-spotv2.png" group-title="TRUE & EURO",SPOTV 2
+http://6395online.com:8080//Iptv6988/0905692638/220
+#EXTINF:-1 tvg-logo="https://www.idoohd.com/images/tv/qMObUQGl2bobXKoTYJQsVmTGyBigrOAT-SPorts_7_Final.jpg" group-title="TRUE & EURO",T SPORT
+http://6395online.com:8080//Iptv6988/0905692638/231
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/308864143_166781909281516_6364889195803126705_n.jpg" group-title="TRUE & EURO",HiSports HD
+http://6395online.com:8080//Iptv6988/0905692638/435632
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/logo-HIFIGHT.png" group-title="TRUE & EURO",HIFIGHT
+http://6395online.com:8080//Iptv6988/0905692638/435633
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/logo-tennis-tv.png" group-title="TRUE & EURO",Tennis HD
+http://6395online.com:8080//Iptv6988/0905692638/435634
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/TOPFIGHT.png" group-title="TRUE & EURO",Top Fight HD
+http://6395online.com:8080//Iptv6988/0905692638/435635
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/us-nbcsports.png" group-title="TRUE & EURO",NBC Sports Washington
+http://6395online.com:8080//Iptv6988/0905692638/435636
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4N77tyOzPPa2WCkG98fKgWI-RupS4HC-VpUg7LHkSw&s=10" group-title="TRUE & EURO",Eurosport 1 Slovakia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
@@ -228,6 +272,183 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
+
+
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/1.png" group-title="Ais",AIS BallThai 1
+http://6395online.com:8080//Iptv6988/0905692638/391550
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/2.png" group-title="Ais",AIS BallThai 2
+http://6395online.com:8080//Iptv6988/0905692638/391551
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/3.png" group-title="Ais",AIS BallThai 3
+http://6395online.com:8080//Iptv6988/0905692638/391552
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/4.png" group-title="Ais",AIS BallThai 4
+http://6395online.com:8080//Iptv6988/0905692638/391553
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/5.png" group-title="Ais",AIS BallThai 5
+http://6395online.com:8080//Iptv6988/0905692638/391554
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/6.png" group-title="Ais",AIS BallThai 6
+http://6395online.com:8080//Iptv6988/0905692638/391555
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/7.png" group-title="Ais",AIS BallThai 7
+http://6395online.com:8080//Iptv6988/0905692638/391556
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/8.png" group-title="Ais",AIS BallThai 8
+http://6395online.com:8080//Iptv6988/0905692638/391557
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-9.png" group-title="Ais",AIS BallThai 9
+http://6395online.com:8080//Iptv6988/0905692638/395398
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-10.png" group-title="Ais",AIS BallThai 10
+http://6395online.com:8080//Iptv6988/0905692638/395399
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-11.png" group-title="Ais",AIS BallThai 11
+http://6395online.com:8080//Iptv6988/0905692638/400472
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-12.png" group-title="Ais",AIS BallThai 12
+http://6395online.com:8080//Iptv6988/0905692638/400473
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-13.png" group-title="Ais",AIS BallThai 13
+http://6395online.com:8080//Iptv6988/0905692638/400474
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-14.png" group-title="Ais",AIS BallThai 14
+http://6395online.com:8080//Iptv6988/0905692638/400475
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-15.png" group-title="Ais",AIS BallThai 15
+http://6395online.com:8080//Iptv6988/0905692638/400476
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-16.png" group-title="Ais",AIS BallThai 16
+http://6395online.com:8080//Iptv6988/0905692638/400477
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-17.png" group-title="Ais",AIS BallThai 17
+http://6395online.com:8080//Iptv6988/0905692638/400478
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-18.png" group-title="Ais",AIS BallThai 18
+http://6395online.com:8080//Iptv6988/0905692638/400479
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-19.png" group-title="Ais",AIS BallThai 19
+http://6395online.com:8080//Iptv6988/0905692638/400480
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-20.png" group-title="Ais",AIS BallThai 20
+http://6395online.com:8080//Iptv6988/0905692638/400481
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-21.png" group-title="Ais",AIS BallThai 21
+http://6395online.com:8080//Iptv6988/0905692638/400482
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-22.png" group-title="Ais",AIS BallThai 22
+http://6395online.com:8080//Iptv6988/0905692638/400483
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-23.png" group-title="Ais",AIS BallThai 23
+http://6395online.com:8080//Iptv6988/0905692638/400484
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-24.png" group-title="Ais",AIS BallThai 24
+http://6395online.com:8080//Iptv6988/0905692638/400485
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-25.png" group-title="Ais",AIS BallThai 25
+http://6395online.com:8080//Iptv6988/0905692638/400486
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-26.png" group-title="Ais",AIS BallThai 26
+http://6395online.com:8080//Iptv6988/0905692638/400487
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-27.png" group-title="Ais",AIS BallThai 27
+http://6395online.com:8080//Iptv6988/0905692638/400488
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-28.png" group-title="Ais",AIS BallThai 28
+http://6395online.com:8080//Iptv6988/0905692638/444754
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__12214508_0.png" group-title="Ais",AIS BallThai 31
+http://6395online.com:8080//Iptv6988/0905692638/446301
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__12214509_0.png" group-title="Ais",AIS BallThai 32
+http://6395online.com:8080//Iptv6988/0905692638/446302
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__12214510_0.png" group-title="Ais",AIS BallThai 35
+http://6395online.com:8080//Iptv6988/0905692638/446303
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__12214511_0.png" group-title="Ais",AIS BallThai 36
+http://6395online.com:8080//Iptv6988/0905692638/446304
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1758709746.png" group-title="Ais",PLAY SPORTS 31
+http://6395online.com:8080//Iptv6988/0905692638/432463
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1758620339.png" group-title="Ais",PLAY SPORTS 36
+http://6395online.com:8080//Iptv6988/0905692638/432464
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1758620000.png" group-title="Ais",PLAY SPORTS 37
+http://6395online.com:8080//Iptv6988/0905692638/432465
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1758620354.png" group-title="Ais",PLAY SPORTS 38
+http://6395online.com:8080//Iptv6988/0905692638/432466
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1758620354.png" group-title="Ais",PLAY SPORTS 39
+http://6395online.com:8080//Iptv6988/0905692638/434095
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/PlaySports41_PEA.png" group-title="Ais",PLAY SPORTS 41
+http://6395online.com:8080//Iptv6988/0905692638/437835
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/PlaySports41_PEA.png" group-title="Ais",PLAY SPORTS 41 สำรอง
+http://6395online.com:8080//Iptv6988/0905692638/537506
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PlaySports42_PEA.png" group-title="Ais",PLAY SPORTS 42
+http://6395online.com:8080//Iptv6988/0905692638/398303
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//PlaySports43_EST.png" group-title="Ais",PLAY SPORTS 43
+http://6395online.com:8080//Iptv6988/0905692638/398649
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//PlaySports44_EST.png" group-title="Ais",PLAY SPORTS 44
+http://6395online.com:8080//Iptv6988/0905692638/399657
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//PlaySports45_EST.png" group-title="Ais",PLAY SPORTS 45
+http://6395online.com:8080//Iptv6988/0905692638/399658
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/PLAYSPORTS/TL2_Circle__-46.png" group-title="Ais",PLAY SPORTS 46
+http://6395online.com:8080//Iptv6988/0905692638/437840
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/PLAYSPORTS51.png" group-title="Ais",PLAY SPORTS 51
+http://6395online.com:8080//Iptv6988/0905692638/398296
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/PLAYSPORTS52.png" group-title="Ais",PLAY SPORTS 52
+http://6395online.com:8080//Iptv6988/0905692638/398297
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/PLAYSPORTS53.png" group-title="Ais",PLAY SPORTS 53
+http://6395online.com:8080//Iptv6988/0905692638/398298
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1759480097.png" group-title="Ais",PLAY SPORTS 55
+http://6395online.com:8080//Iptv6988/0905692638/425262
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1759480097.png" group-title="Ais",PLAY SPORTS 55 สำรอง
+http://6395online.com:8080//Iptv6988/0905692638/537507
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1761069361.png" group-title="Ais",PLAY SPORTS 56
+http://6395online.com:8080//Iptv6988/0905692638/430862
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1761069361.png" group-title="Ais",PLAY SPORTS 56 สำรอง
+http://6395online.com:8080//Iptv6988/0905692638/537508
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__12214415.png" group-title="Ais",PLAY SPORTS 57
+http://6395online.com:8080//Iptv6988/0905692638/446300
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__12214415.png" group-title="Ais",PLAY SPORTS 57 สำรอง
+http://6395online.com:8080//Iptv6988/0905692638/537509
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/BCEED2B6-95D0-4163-84B1-F37AF2B545F9.png" group-title="Ais",PLAY SPORTS 61
+http://6395online.com:8080//Iptv6988/0905692638/444732
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/BCEED2B6-95D0-4163-84B1-F37AF2B545F9.png" group-title="Ais",PLAY SPORTS 61 สำรอง
+http://6395online.com:8080//Iptv6988/0905692638/537511
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__11984945_0.png" group-title="Ais",PLAY SPORTS 62
+http://6395online.com:8080//Iptv6988/0905692638/444733
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__11984945_0.png" group-title="Ais",PLAY SPORTS 62 สำรอง
+http://6395online.com:8080//Iptv6988/0905692638/537512
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__11984945_0.png" group-title="Ais",PLAY SPORTS 64
+http://6395online.com:8080//Iptv6988/0905692638/444752
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__11984945_0.png" group-title="Ais",PLAY SPORTS 64 สำรอง
+http://6395online.com:8080//Iptv6988/0905692638/537514
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__12017825.png" group-title="Ais",PLAY SPORTS 65
+http://6395online.com:8080//Iptv6988/0905692638/444753
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1769669214.png" group-title="Ais",PLAY SPORTS 66
+http://6395online.com:8080//Iptv6988/0905692638/446293
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1769669214.png" group-title="Ais",PLAY SPORTS 66 สำรอง
+http://6395online.com:8080//Iptv6988/0905692638/537515
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__11984946_0.png" group-title="Ais",PLAY SPORTS 69
+http://6395online.com:8080//Iptv6988/0905692638/444734
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/S__11984946_0.png" group-title="Ais",PLAY SPORTS 69 สำรอง
+http://6395online.com:8080//Iptv6988/0905692638/537516
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1767714588.png" group-title="Ais",PLAY SPORTS 71
+http://6395online.com:8080//Iptv6988/0905692638/443260
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1767714588.png" group-title="Ais",PLAY SPORTS 71 สำรอง
+http://6395online.com:8080//Iptv6988/0905692638/537517
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1767714685.png" group-title="Ais",PLAY SPORTS 72
+http://6395online.com:8080//Iptv6988/0905692638/443261
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1767714685.png" group-title="Ais",PLAY SPORTS 72 สำรอง
+http://6395online.com:8080//Iptv6988/0905692638/537518
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1767714751.png" group-title="Ais",PLAY SPORTS 73
+http://6395online.com:8080//Iptv6988/0905692638/443262
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1767714751.png" group-title="Ais",PLAY SPORTS 73 สำรอง
+http://6395online.com:8080//Iptv6988/0905692638/537519
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1767714751.png" group-title="Ais",PLAY SPORTS 74
+http://6395online.com:8080//Iptv6988/0905692638/447497
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1767714751.png" group-title="Ais",PLAY SPORTS 74 สำรอง
+http://6395online.com:8080//Iptv6988/0905692638/537520
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1767714751.png" group-title="Ais",PLAY SPORTS 75
+http://6395online.com:8080//Iptv6988/0905692638/447498
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1767714751.png" group-title="Ais",PLAY SPORTS 75 สำรอง
+http://6395online.com:8080//Iptv6988/0905692638/537521
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1771240553.png" group-title="Ais",PLAY SPORTS 76
+http://6395online.com:8080//Iptv6988/0905692638/447499
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1771281463.png" group-title="Ais",PLAY SPORTS 77
+http://6395online.com:8080//Iptv6988/0905692638/447500
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/ais1/1771240452.png" group-title="Ais",PLAY SPORTS 78
+http://6395online.com:8080//Iptv6988/0905692638/447501
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/58.png" group-title="Ais",PLAY SPORTS 58
+http://6395online.com:8080//Iptv6988/0905692638/537510
+#EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/63.png" group-title="Ais",PLAY SPORTS 63
+http://6395online.com:8080//Iptv6988/0905692638/537513
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/true-ball-thai/ballthai1.png" group-title="Ais",True Ball Thai 1
+http://6395online.com:8080//Iptv6988/0905692638/288585
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/true-ball-thai/ballthai2.png" group-title="Ais",True Ball Thai 2
+http://6395online.com:8080//Iptv6988/0905692638/288586
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sportus/opt1729770760d.png" group-title="Ais",BG Sport 1
+http://6395online.com:8080//Iptv6988/0905692638/300100
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sportus/opt1729770760d.png" group-title="Ais",BG Sport 2
+http://6395online.com:8080//Iptv6988/0905692638/300101
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sportus/opt1729770760d.png" group-title="Ais",BG Sport 3
+http://6395online.com:8080//Iptv6988/0905692638/304692
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sportus/opt1729770760d.png" group-title="Ais",BG Sport 4
+http://6395online.com:8080//Iptv6988/0905692638/304693
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sportus/opt1729770760d.png" group-title="Ais",BG Sport 5
+http://6395online.com:8080//Iptv6988/0905692638/304694
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6dmA0EGGrHvqr2yngNATDKb59NDUCp7f9mh8hjbOJg&s=10" group-title="TSN SPORTS",TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
