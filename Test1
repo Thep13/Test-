@@ -150,6 +150,12 @@ https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwalZjr.png" group-title="TV THAILAND",Thai PBS (Ga 24 Jam)
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://ดูบอลโลกสด2026.com/uploads/1781518355788_profile.png" group-title="World Cup 2026 🏆🌎⚽",Live
+https://live.mee88player.com/live/82290.m3u8
+#EXTINF:-1 tvg-logo="https://ดูบอลโลกสด2026.com/uploads/1781518355788_profile.png" group-title="World Cup 2026 🏆🌎⚽",Live 2
+#EXTVLCOPT:http-referrer=https://343live.com/
+https://liveera.live/343live/82290/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="World Cup 2026 🏆🌎⚽",SUPER SPORTS FIFA
 http://starhub.pro//farhat-3379/67897-913379/741566
