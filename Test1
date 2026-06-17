@@ -50,12 +50,17 @@ http://6395online.com:8080//Iptv6988/0905692638/391716
 #EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax11.png" group-title="⚽Sport🌍",MONOMAX 11
 http://6395online.com:8080//Iptv6988/0905692638/441740
 
-#EXTINF:-1 tvg-logo="https://www.svleague.jp/ext/userfiles_2018/topics/news/2024-25/%E3%81%9D%E3%81%AE%E4%BB%96/VW_HorizontalStack_Green_RGB.png" group-title="⚽Sport🌍",🏐AVC 2
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/vbtv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.svleague.jp/ext/userfiles_2018/topics/news/2024-25/その他/VW_HorizontalStack_Green_RGB.png" group-title="⚽Sport🌍",🏐AVC 1
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/vbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.svleague.jp/ext/userfiles_2018/topics/news/2024-25/%E3%81%9D%E3%81%AE%E4%BB%96/VW_HorizontalStack_Green_RGB.png" group-title="⚽Sport🌍",🏐AVC 2
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/vbtv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.svleague.jp/ext/userfiles_2018/topics/news/2024-25/%E3%81%9D%E3%81%AE%E4%BB%96/VW_HorizontalStack_Green_RGB.png" group-title="⚽Sport🌍",🏐AVC 3
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/vbtv3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.nba.com/teams/legacy/www.nba.com/heat/sites/heat/files/2000_wnba-fund.jpg" group-title="⚽Sport🌍",WNBA
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/playsports57/playlist.m3u8
