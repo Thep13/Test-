@@ -215,6 +215,18 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxI2dCwajkVK0v51uHFazLrZUqy1IfdcWd9NB5SI6M2g&s" group-title="Badminton EVENT",002 Yonex US Open 2026 1
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel48.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxI2dCwajkVK0v51uHFazLrZUqy1IfdcWd9NB5SI6M2g&s" group-title="Badminton EVENT",002 Yonex US Open 2026 2
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel49.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxI2dCwajkVK0v51uHFazLrZUqy1IfdcWd9NB5SI6M2g&s" group-title="Badminton EVENT",002 Yonex US Open 2026 3
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel50.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxI2dCwajkVK0v51uHFazLrZUqy1IfdcWd9NB5SI6M2g&s" group-title="Badminton EVENT",002 Yonex US Open 2026 4
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel51.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/5.png" group-title="TV THAILAND",CH5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
