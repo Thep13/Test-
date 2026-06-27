@@ -526,6 +526,39 @@ http://54.37.19.157/golf/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 group-title="Live Sports",Tsp4
+http://54.37.19.157/tsp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports",Bein4
+http://54.37.19.157/bein4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports",Bein5
+http://54.37.19.157/bein5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports",Monomax1
+http://54.37.19.157/monomax1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports",Monomax2
+http://54.37.19.157/monomax2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports",Monomax3
+http://54.37.19.157/monomax3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports",Monomax4
+http://54.37.19.157/monomax4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports",Monomax5
+http://54.37.19.157/monomax5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports",Ch3
+http://54.37.19.157/ch3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports",Ch7
+http://54.37.19.157/ch7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports",Ch8
+http://54.37.19.157/ch8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports",Mono29
+http://54.37.19.157/mono29/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports",WORKPOINT
+http://54.37.19.157/workpoint/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports",Mcot
+http://54.37.19.157/mcot/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports",ONE31
+http://54.37.19.157/one31/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports",Cinemax
+http://54.37.19.157/cinemax/tracks-v1a1/mono.m3u8
+
 
 
 
