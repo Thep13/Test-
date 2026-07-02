@@ -549,7 +549,16 @@ http://54.37.19.157/one31/tracks-v1a1/mono.m3u8
 http://54.37.19.157/cinemax/tracks-v1a1/mono.m3u8
 
 
-
+#EXTINF:-1 group-title="Live Sports",HBO HIT
+http://54.37.19.157/hboh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports",AXN
+http://54.37.19.157/axn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports",HBO
+http://54.37.19.157/hbohd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports",HBO Family
+http://54.37.19.157/hbof/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports",HBO Signature
+http://54.37.19.157/hbos/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/1.png" group-title="Ais",AIS BallThai 1
