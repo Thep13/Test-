@@ -71,22 +71,12 @@ https://yyi7tewa2x.3ppnkog.com/xstream/monomax-7/playlist.m3u8
 https://yyi7tewa2x.3ppnkog.com/xstream/monomax-8/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/teams/legacy/www.nba.com/heat/sites/heat/files/2000_wnba-fund.jpg" group-title="⚽Sport🌍",WNBA
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/playsports57/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1155224.png" group-title="⚽Sport🌍",League Men Sports 1
-http://6395online.com:8080//Iptv6988/0905692638/441743
-#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1155224.png" group-title="⚽Sport🌍",League Men Sports 2
-http://6395online.com:8080//Iptv6988/0905692638/441744
 #EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/1664499681.png" group-title="⚽Sport🌍",True Premier Football 3
 http://6395online.com:8080//Iptv6988/0905692638/391722
 #EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/1664499692.png" group-title="⚽Sport🌍",True Premier Football 4
 http://6395online.com:8080//Iptv6988/0905692638/391723
 #EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/1664499700.png" group-title="⚽Sport🌍",True Premier Football 5
 http://6395online.com:8080//Iptv6988/0905692638/437738
-#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1155224.png" group-title="⚽Sport🌍",League Men Sports 3
-http://6395online.com:8080//Iptv6988/0905692638/444275
 
 
 
@@ -295,14 +285,15 @@ https://live.mee88player.com/live/1495.m3u8
 https://live.mee88player.com/live/1496.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.svleague.jp/ext/userfiles_2018/topics/news/2024-25/%E3%81%9D%E3%81%AE%E4%BB%96/VW_HorizontalStack_Green_RGB.png" group-title="🏐Volleyball🌍",🏐Volleyball 1
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1155224.png" group-title="🏐Volleyball🌍",League Men Sports 1
+http://6395online.com:8080//Iptv6988/0905692638/441743
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1155224.png" group-title="🏐Volleyball🌍",League Men Sports 2
+http://6395online.com:8080//Iptv6988/0905692638/441744
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/1155224.png" group-title="🏐Volleyball🌍",League Men Sports 3
+http://6395online.com:8080//Iptv6988/0905692638/444275
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/teams/legacy/www.nba.com/heat/sites/heat/files/2000_wnba-fund.jpg" group-title="🏐Volleyball🌍",WNBA
 #EXTVLCOPT:http-referrer=https://atmflix.live/
-https://vbtv.ahmadadityaberdikari.workers.dev/play/8pChFEyS.m3u8
-#EXTINF:-1 tvg-logo="https://www.svleague.jp/ext/userfiles_2018/topics/news/2024-25/%E3%81%9D%E3%81%AE%E4%BB%96/VW_HorizontalStack_Green_RGB.png" group-title="🏐Volleyball🌍",🏐Volleyball 2
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://livecdn.euw1-0008.jwplive.com//live/sites/fM9jRrkn/media/RfBpOZzw/live.isml/.m3u8
-
-
+https://cdn2.stream.atmflix.live/atmflixlive/playsports57/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/5.png" group-title="TV THAILAND",CH5 HD
