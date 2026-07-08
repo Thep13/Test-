@@ -70,17 +70,7 @@ https://yyi7tewa2x.3ppnkog.com/xstream/monomax-7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/MonomaxSportsTV-logo.png" group-title="⚽Sport🌍",MonoSports 8
 https://yyi7tewa2x.3ppnkog.com/xstream/monomax-8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.svleague.jp/ext/userfiles_2018/topics/news/2024-25/その他/VW_HorizontalStack_Green_RGB.png" group-title="⚽Sport🌍",🏐AVC 1
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/vbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.svleague.jp/ext/userfiles_2018/topics/news/2024-25/%E3%81%9D%E3%81%AE%E4%BB%96/VW_HorizontalStack_Green_RGB.png" group-title="⚽Sport🌍",🏐AVC 2
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/vbtv2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.svleague.jp/ext/userfiles_2018/topics/news/2024-25/%E3%81%9D%E3%81%AE%E4%BB%96/VW_HorizontalStack_Green_RGB.png" group-title="⚽Sport🌍",🏐AVC 3
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/vbtv3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.nba.com/teams/legacy/www.nba.com/heat/sites/heat/files/2000_wnba-fund.jpg" group-title="⚽Sport🌍",WNBA
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/playsports57/playlist.m3u8
@@ -217,6 +207,95 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
+#EXTINF:-1 tvg-logo="https://ดูบอลโลกสด2026.com/uploads/1781518355788_profile.png" group-title="World Cup 2026 🏆🌎⚽",Live
+https://live.mee88player.com/live/82290.m3u8
+#EXTINF:-1 tvg-logo="https://ดูบอลโลกสด2026.com/uploads/1781518355788_profile.png" group-title="World Cup 2026 🏆🌎⚽",Live 2
+#EXTVLCOPT:http-referrer=https://343live.com/
+https://liveera.live/343live/82290/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="World Cup 2026 🏆🌎⚽",SUPER SPORTS FIFA
+http://starhub.pro//farhat-3379/67897-913379/741566
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="World Cup 2026 🏆🌎⚽",Unite8 Sports 1 HD
+http://starhub.pro//farhat-3379/67897-913379/741567
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="World Cup 2026 🏆🌎⚽",DE | Fusball TV 1 World Cup 2026 [HD]
+http://starhub.pro//farhat-3379/67897-913379/742610
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="World Cup 2026 🏆🌎⚽",DE | Fusball TV 2 World Cup 2026 [HD]
+http://starhub.pro//farhat-3379/67897-913379/742611
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="World Cup 2026 🏆🌎⚽",SS World Cup Central
+http://starhub.pro//farhat-3379/67897-913379/745149
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="World Cup 2026 🏆🌎⚽",SS World Cup Pass
+http://starhub.pro//farhat-3379/67897-913379/745195
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="World Cup 2026 🏆🌎⚽",Unite8 Sports 2 HD
+http://starhub.pro//farhat-3379/67897-913379/745202
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="World Cup 2026 🏆🌎⚽",SS World Cup Extra
+http://starhub.pro//farhat-3379/67897-913379/745211
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fzbsY6CP/Chat-GPT-Image-Jun-11-2026-11-41-22-PM.png" group-title="World Cup 2026 🏆🌎⚽",(DE) Fussball.TV1 (UHD/4K)
+http://starhub.pro//farhat-3379/67897-913379/745269
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fzbsY6CP/Chat-GPT-Image-Jun-11-2026-11-41-22-PM.png" group-title="World Cup 2026 🏆🌎⚽",(HK) Now Sports 616 (UHD/4K)
+http://starhub.pro//farhat-3379/67897-913379/745270
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSjkXWDlDD-kyEnDSFjcl1_r_pZT_GN7UbrnY2lZV6jw&s=10" group-title="World Cup 2026 🏆🌎⚽",RTB Aneka | TANPA JEDA IKLAN
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxsoXoKYsS_leK30qY252Jsrt0HDnXMRpezWD8TRtZzA&s=10" group-title="World Cup 2026 🏆🌎⚽",RTB Go Live | TANPA JEDA IKLAN
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="World Cup 2026 🏆🌎⚽",TUDN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/29.png" group-title="World Cup 2026 🏆🌎⚽",MONO29 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhKvLvce646KU8ufBTKIraaAWu45FNQKyZzPS1ySO6Q&s" group-title="World Cup 2026 🏆🌎⚽",CT SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/42/1/cctv-china-media-group-logo-png_seeklogo-424806.png" group-title="World Cup 2026 🏆🌎⚽",CCTV 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="World Cup 2026 🏆🌎⚽",Alwan Sport 1 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/42/1/cctv-china-media-group-logo-png_seeklogo-424806.png" group-title="World Cup 2026 🏆🌎⚽",CCTV 5+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="World Cup 2026 🏆🌎⚽",CAZE TV 1
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="World Cup 2026 🏆🌎⚽",CAZE TV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="World Cup 2026 🏆🌎⚽",CAZE TV 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+
+#EXTINF:-1 tvg-logo="https://www.svleague.jp/ext/userfiles_2018/topics/news/2024-25/その他/VW_HorizontalStack_Green_RGB.png" group-title="🏐Volleyball🌍",🏐AVC 1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/vbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.svleague.jp/ext/userfiles_2018/topics/news/2024-25/%E3%81%9D%E3%81%AE%E4%BB%96/VW_HorizontalStack_Green_RGB.png" group-title="🏐Volleyball🌍",🏐AVC 2
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/vbtv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.svleague.jp/ext/userfiles_2018/topics/news/2024-25/%E3%81%9D%E3%81%AE%E4%BB%96/VW_HorizontalStack_Green_RGB.png" group-title="🏐Volleyball🌍",🏐AVC 3
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/vbtv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.svleague.jp/ext/userfiles_2018/topics/news/2024-25/%E3%81%9D%E3%81%AE%E4%BB%96/VW_HorizontalStack_Green_RGB.png" group-title="🏐Volleyball🌍",🏐Volleyball 1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://vbtv.ahmadadityaberdikari.workers.dev/play/8pChFEyS.m3u8
+#EXTINF:-1 tvg-logo="https://www.svleague.jp/ext/userfiles_2018/topics/news/2024-25/%E3%81%9D%E3%81%AE%E4%BB%96/VW_HorizontalStack_Green_RGB.png" group-title="🏐Volleyball🌍",🏐Volleyball 2
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://livecdn.euw1-0008.jwplive.com//live/sites/fM9jRrkn/media/RfBpOZzw/live.isml/.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/5.png" group-title="TV THAILAND",CH5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
@@ -342,75 +421,6 @@ https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwalZjr.png" group-title="TV THAILAND",Thai PBS (Ga 24 Jam)
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ดูบอลโลกสด2026.com/uploads/1781518355788_profile.png" group-title="World Cup 2026 🏆🌎⚽",Live
-https://live.mee88player.com/live/82290.m3u8
-#EXTINF:-1 tvg-logo="https://ดูบอลโลกสด2026.com/uploads/1781518355788_profile.png" group-title="World Cup 2026 🏆🌎⚽",Live 2
-#EXTVLCOPT:http-referrer=https://343live.com/
-https://liveera.live/343live/82290/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="World Cup 2026 🏆🌎⚽",SUPER SPORTS FIFA
-http://starhub.pro//farhat-3379/67897-913379/741566
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="World Cup 2026 🏆🌎⚽",Unite8 Sports 1 HD
-http://starhub.pro//farhat-3379/67897-913379/741567
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="World Cup 2026 🏆🌎⚽",DE | Fusball TV 1 World Cup 2026 [HD]
-http://starhub.pro//farhat-3379/67897-913379/742610
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="World Cup 2026 🏆🌎⚽",DE | Fusball TV 2 World Cup 2026 [HD]
-http://starhub.pro//farhat-3379/67897-913379/742611
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="World Cup 2026 🏆🌎⚽",SS World Cup Central
-http://starhub.pro//farhat-3379/67897-913379/745149
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="World Cup 2026 🏆🌎⚽",SS World Cup Pass
-http://starhub.pro//farhat-3379/67897-913379/745195
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="World Cup 2026 🏆🌎⚽",Unite8 Sports 2 HD
-http://starhub.pro//farhat-3379/67897-913379/745202
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="World Cup 2026 🏆🌎⚽",SS World Cup Extra
-http://starhub.pro//farhat-3379/67897-913379/745211
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fzbsY6CP/Chat-GPT-Image-Jun-11-2026-11-41-22-PM.png" group-title="World Cup 2026 🏆🌎⚽",(DE) Fussball.TV1 (UHD/4K)
-http://starhub.pro//farhat-3379/67897-913379/745269
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fzbsY6CP/Chat-GPT-Image-Jun-11-2026-11-41-22-PM.png" group-title="World Cup 2026 🏆🌎⚽",(HK) Now Sports 616 (UHD/4K)
-http://starhub.pro//farhat-3379/67897-913379/745270
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSjkXWDlDD-kyEnDSFjcl1_r_pZT_GN7UbrnY2lZV6jw&s=10" group-title="World Cup 2026 🏆🌎⚽",RTB Aneka | TANPA JEDA IKLAN
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxsoXoKYsS_leK30qY252Jsrt0HDnXMRpezWD8TRtZzA&s=10" group-title="World Cup 2026 🏆🌎⚽",RTB Go Live | TANPA JEDA IKLAN
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="World Cup 2026 🏆🌎⚽",TUDN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/29.png" group-title="World Cup 2026 🏆🌎⚽",MONO29 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhKvLvce646KU8ufBTKIraaAWu45FNQKyZzPS1ySO6Q&s" group-title="World Cup 2026 🏆🌎⚽",CT SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/42/1/cctv-china-media-group-logo-png_seeklogo-424806.png" group-title="World Cup 2026 🏆🌎⚽",CCTV 5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="World Cup 2026 🏆🌎⚽",Alwan Sport 1 HD
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/42/1/cctv-china-media-group-logo-png_seeklogo-424806.png" group-title="World Cup 2026 🏆🌎⚽",CCTV 5+
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
-http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="World Cup 2026 🏆🌎⚽",CAZE TV 1
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="World Cup 2026 🏆🌎⚽",CAZE TV 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFVJGATy70KVBZ0txjIVDSVXTQUCSykt_5A&s" group-title="World Cup 2026 🏆🌎⚽",CAZE TV 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
 
 
