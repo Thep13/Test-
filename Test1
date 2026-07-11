@@ -571,6 +571,84 @@ http://54.37.19.157/hbof/tracks-v1a1/mono.m3u8
 http://54.37.19.157/hbos/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_85.png" group-title="Live Sports",Mono Plus
+https://live.iptv-th.workers.dev/live/85.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_127.png" group-title="Live Sports",CH 3 HD
+https://live.iptv-th.workers.dev/live/127.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_128.png" group-title="Live Sports",CH 5 HD
+https://live.iptv-th.workers.dev/live/128.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_129.png" group-title="Live Sports",CH 7 HD
+https://live.iptv-th.workers.dev/live/129.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_130.png" group-title="Live Sports",Amarin TV HD
+https://live.iptv-th.workers.dev/live/130.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_131.png" group-title="Live Sports",CH 8
+https://live.iptv-th.workers.dev/live/131.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_132.png" group-title="Live Sports",GMM 25
+https://live.iptv-th.workers.dev/live/132.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_133.png" group-title="Live Sports",MCOT HD
+https://live.iptv-th.workers.dev/live/133.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_134.png" group-title="Live Sports",MONO 29
+https://live.iptv-th.workers.dev/live/134.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_135.png" group-title="Live Sports",Nation TV
+https://live.iptv-th.workers.dev/live/135.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_136.png" group-title="Live Sports",NBT
+https://live.iptv-th.workers.dev/live/136.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_137.png" group-title="Live Sports",JKN
+https://live.iptv-th.workers.dev/live/137.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_138.png" group-title="Live Sports",ONE HD
+https://live.iptv-th.workers.dev/live/138.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_139.png" group-title="Live Sports",PPTV HD
+https://live.iptv-th.workers.dev/live/139.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_140.png" group-title="Live Sports",Thai PBS
+https://live.iptv-th.workers.dev/live/140.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_141.png" group-title="Live Sports",Thai Rath HD
+https://live.iptv-th.workers.dev/live/141.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_142.png" group-title="Live Sports",TNN 24
+https://live.iptv-th.workers.dev/live/142.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_144.png" group-title="Live Sports",True 4 U
+https://live.iptv-th.workers.dev/live/144.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_146.png" group-title="Live Sports",Work Point TV
+https://live.iptv-th.workers.dev/live/146.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_175.jpg" group-title="Live Sports",tsports
+https://live.iptv-th.workers.dev/live/175.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_32.jpg" group-title="Live Sports",Rock Entertainment
+https://live.iptv-th.workers.dev/live/32.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_33.jpg" group-title="Live Sports",ROCK Action
+https://live.iptv-th.workers.dev/live/33.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_36.jpg" group-title="Live Sports",Food Network Asia
+https://live.iptv-th.workers.dev/live/36.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_38.jpg" group-title="Live Sports",Asian food network AFN
+https://live.iptv-th.workers.dev/live/38.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_49.png" group-title="Live Sports",BBC Lifestyle
+https://live.iptv-th.workers.dev/live/49.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_121.png" group-title="Live Sports",True Xzyte
+https://live.iptv-th.workers.dev/live/121.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_271.jpg" group-title="Live Sports",CCTV 4
+https://live.iptv-th.workers.dev/live/271.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_343.jpg" group-title="Live Sports",Mono Music
+https://live.iptv-th.workers.dev/live/343.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_69.png" group-title="Live Sports",Discovery Channel
+https://live.iptv-th.workers.dev/live/69.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_74.png" group-title="Live Sports",History HD
+https://live.iptv-th.workers.dev/live/74.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_78.png" group-title="Live Sports",TLC
+https://live.iptv-th.workers.dev/live/78.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/default.png" group-title="Live Sports",True Explore SCI
+https://live.iptv-th.workers.dev/live/111.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_118.png" group-title="Live Sports",True Explore Wild
+https://live.iptv-th.workers.dev/live/118.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_211.jpg" group-title="Live Sports",MySci
+https://live.iptv-th.workers.dev/live/211.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_329.jpg" group-title="Live Sports",Animal show
+https://live.iptv-th.workers.dev/live/329.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_54.png" group-title="Live Sports",Cartoon Network
+https://live.iptv-th.workers.dev/live/54.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-three-puce.vercel.app/logos/logo_91.jpg" group-title="Live Sports",Nick Kids
+https://live.iptv-th.workers.dev/live/91.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/1.png" group-title="Ais",AIS BallThai 1
 http://6395online.com:8080//Iptv6988/0905692638/391550
 #EXTINF:-1 tvg-logo="http://apk-x.org/pics/images/2.png" group-title="Ais",AIS BallThai 2
