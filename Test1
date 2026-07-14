@@ -272,6 +272,27 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
 
+
+
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1782661225474.webp" group-title="Madoo",Event 1
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/wc2026-01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1782661225474.webp" group-title="Madoo",Event 2
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/wc2026-01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1782661225474.webp" group-title="Madoo",Event 3
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/wc2026-01/playlist.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.svleague.jp/ext/userfiles_2018/topics/news/2024-25/その他/VW_HorizontalStack_Green_RGB.png" group-title="🏐Volleyball🌍",🏐AVC 1
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/vbtv/playlist.m3u8
