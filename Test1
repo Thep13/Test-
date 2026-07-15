@@ -291,9 +291,6 @@ https://godlivetv.io/madoball/7161/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/6328.jpg" group-title="Madoo",Amarin TV
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/6328/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1389.jpg" group-title="Madoo",Ball Thai 1
-#EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/1389/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/497.jpg" group-title="Madoo",CH 8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/497/playlist.m3u8
@@ -321,12 +318,6 @@ https://godlivetv.io/madoball/6345/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/430.jpg" group-title="Madoo",TPTV
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/430/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/2018.jpg" group-title="Madoo",True Premier HD 3
-#EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/2018/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/2017.jpg" group-title="Madoo",True Premier HD 4
-#EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/2017/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/1873.jpg" group-title="Madoo",True Asian More
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1873/playlist.m3u8
@@ -471,18 +462,6 @@ https://godlivetv.io/madoball/740/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/1600.jpg" group-title="Madoo",ABC Australia
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1600/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/61286.jpg" group-title="Madoo",Bein France 1
-#EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/61286/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/61283.jpg" group-title="Madoo",Bein France 2
-#EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/61283/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/61281.jpg" group-title="Madoo",Bein France 3
-#EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/61281/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/10331.jpg" group-title="Madoo",Being Sport USA
-#EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/10331/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/8999.jpg" group-title="Madoo",Boomerang
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/8999/playlist.m3u8
@@ -546,8 +525,6 @@ https://godlivetv.io/madoball/1730/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/1404.jpg" group-title="Madoo",TV5MONDE
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1404/playlist.m3u8
-
-
 
 
 
