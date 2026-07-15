@@ -82,6 +82,15 @@ http://6395online.com:8080//Iptv6988/0905692638/437738
 
 
 
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1782661225474.webp" group-title="Madoo",Event 1
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/wc2026-01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1782661225474.webp" group-title="Madoo",Event 2
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://cdn.madoball.com/storage/obs/rmrmdpagi2s/index.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1782661225474.webp" group-title="Madoo",Event 3
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/wc2026-01/playlist.m3u8
 
 
 
@@ -142,15 +151,6 @@ https://godlivetv.io/madoball/2018/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.madoball.com/upload/2017.jpg" group-title="Madoo",True​Premier 4
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/2017/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1782661225474.webp" group-title="Madoo",Event 1
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/wc2026-01/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1782661225474.webp" group-title="Madoo",Event 2
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/wc2026-01/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1782661225474.webp" group-title="Madoo",Event 3
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/wc2026-01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/2821.jpg" group-title="Madoo",3BB Asian
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/2821/playlist.m3u8
