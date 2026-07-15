@@ -530,6 +530,33 @@ https://godlivetv.io/madoball/1404/playlist.m3u8
 
 
 
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qF52NS22/maxresdefault.jpg" group-title="Daihatsu Japan Open 2026",Court 1 - TSP7 (Stream 1)
+https://cdn1.googlecdnforstreaming.live/live/tsp7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qF52NS22/maxresdefault.jpg" group-title="Daihatsu Japan Open 2026",Court 1 - TSP7 (Stream 2)
+https://godlivetv.io/madoball/2829/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qF52NS22/maxresdefault.jpg" group-title="Daihatsu Japan Open 2026",Court 2 - Stream 1
+https://53b1f59b603742f3fe43bc97dbe7ad63.v.smtcdns.net/play.cbalive.weibisai.com/live/4266836167426061_AiHD.m3u8?txSecret=c5fcdc1bb54ede0efe88aec1ac771c82&txTime=6A5802E0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qF52NS22/maxresdefault.jpg" group-title="Daihatsu Japan Open 2026",Court 2 - Stream 2
+http://43.168.176.59/mobilelive-test.ysp.cctv.cn/ysp/2031460301_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qF52NS22/maxresdefault.jpg" group-title="Daihatsu Japan Open 2026",Court 3 - Stream 1
+https://53b1f59b603742f3fe43bc97dbe7ad63.v.smtcdns.net/play.cbalive.weibisai.com/live/4266836298806061_AiHD.m3u8?txSecret=36dd6108b5d783e9f5be625223d40d13&txTime=6A5802E0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qF52NS22/maxresdefault.jpg" group-title="Daihatsu Japan Open 2026",Court 3 - Stream 2
+http://43.168.176.59/mobilelive-test.ysp.cctv.cn/ysp/2031468201_hd.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.svleague.jp/ext/userfiles_2018/topics/news/2024-25/その他/VW_HorizontalStack_Green_RGB.png" group-title="🏐Volleyball🌍",🏐AVC 1
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/vbtv/playlist.m3u8
