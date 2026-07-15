@@ -430,13 +430,16 @@ http://43.229.132.25:80//freeworldcup2026/freeworldcup2026/48
 https://cdn1.googlecdnforstreaming.live/live/tsp7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qF52NS22/maxresdefault.jpg" group-title="Daihatsu Japan Open 2026",Court 1 - TSP7 (Stream 2)
+#EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/2829/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qF52NS22/maxresdefault.jpg" group-title="Daihatsu Japan Open 2026",Court 2 - Stream 1
 https://53b1f59b603742f3fe43bc97dbe7ad63.v.smtcdns.net/play.cbalive.weibisai.com/live/4266836167426061_AiHD.m3u8?txSecret=c5fcdc1bb54ede0efe88aec1ac771c82&txTime=6A5802E0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qF52NS22/maxresdefault.jpg" group-title="Daihatsu Japan Open 2026",Court 2 - Stream 2
-http://43.168.176.59/mobilelive-test.ysp.cctv.cn/ysp/2031460301_hd.m3u8
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2891/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qF52NS22/maxresdefault.jpg" group-title="Daihatsu Japan Open 2026",Court 3 - Stream 1
 https://53b1f59b603742f3fe43bc97dbe7ad63.v.smtcdns.net/play.cbalive.weibisai.com/live/4266836298806061_AiHD.m3u8?txSecret=36dd6108b5d783e9f5be625223d40d13&txTime=6A5802E0
