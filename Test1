@@ -672,12 +672,7 @@ http://49.0.64.96:8007/IZAA
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="TV THAILAND",movies5
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://49.0.64.96:8007/PING
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/doomovie-epl3.png" group-title="TV THAILAND",True Premire 3
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/tpf3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/doomovie-epl4.png" group-title="TV THAILAND",True Premire 4
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/tpf4/playlist.m3u8
+
 
 
 
