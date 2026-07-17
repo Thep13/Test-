@@ -198,7 +198,9 @@ https://cdn2.stream.atmflix.live/atmflixlive/samrujlok/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport7.jpg" group-title="TV THAILAND",Truetennis
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/truetennis/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport7.jpg" group-title="TV THAILAND",Animalshow
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/animalshow/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="TV THAILAND",movies1
