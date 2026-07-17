@@ -244,6 +244,21 @@ http://43.229.132.25:80//freeworldcup2026/freeworldcup2026/48
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png" group-title="TV THAILAND",Animal
+#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
+http://49.0.64.96:8007/Animal
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png" group-title="TV THAILAND",Science
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/WSCI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="TV THAILAND",PetCollective1
+https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="TV THAILAND",PetClubTV2
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="TV THAILAND",WildEarth
+https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="TV THAILAND",XPLORE
+https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
+
 
 
 
