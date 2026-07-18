@@ -459,25 +459,21 @@ https://godlivetv.io/madoball/1487/playlist.m3u8
 https://godlivetv.io/madoball/1486/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/videoframe.png" group-title="⚽Sport🌍",Monomax_PL 1 HD สด
-https://live.livedoomovies.com:4433/api/hls/live/82290/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/MonomaxSportsTV-logo.png" group-title="⚽Sport🌍",MonoSports 1
-https://yyi7tewa2x.3ppnkog.com/xstream/monomax-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/MonomaxSportsTV-logo.png" group-title="⚽Sport🌍",MonoSports 2
-https://yyi7tewa2x.3ppnkog.com/xstream/monomax-2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/MonomaxSportsTV-logo.png" group-title="⚽Sport🌍",MonoSports 3
-https://yyi7tewa2x.3ppnkog.com/xstream/monomax-3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/MonomaxSportsTV-logo.png" group-title="⚽Sport🌍",MonoSports 4
-https://yyi7tewa2x.3ppnkog.com/xstream/monomax-4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/MonomaxSportsTV-logo.png" group-title="⚽Sport🌍",MonoSports 5
-https://yyi7tewa2x.3ppnkog.com/xstream/monomax-5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/MonomaxSportsTV-logo.png" group-title="⚽Sport🌍",MonoSports 6
-https://yyi7tewa2x.3ppnkog.com/xstream/monomax-6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/MonomaxSportsTV-logo.png" group-title="⚽Sport🌍",MonoSports 7
-https://yyi7tewa2x.3ppnkog.com/xstream/monomax-7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/MonomaxSportsTV-logo.png" group-title="⚽Sport🌍",MonoSports 8
-https://yyi7tewa2x.3ppnkog.com/xstream/monomax-8/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4680.png" group-title="⚽Sport🌍",MAX 1 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_1HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4681.png" group-title="⚽Sport🌍",MAX 2 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_2HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4682.png" group-title="⚽Sport🌍",MAX 3 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_3HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4683.png" group-title="⚽Sport🌍",MAX 4 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_4HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4684.png" group-title="⚽Sport🌍",MAX 5 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_5HD/playlist.m3u8
 
 
 
