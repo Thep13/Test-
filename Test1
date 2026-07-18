@@ -403,58 +403,60 @@ https://dov.streaming-api.xyz/kicksballcom/mono29/chunks.m3u8?nimblesessionid=27
 https://dov.streaming-api.xyz/kicksballcom/mono29/chunks.m3u8?nimblesessionid=27942&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDI2IDc6Mzk6MTIgQU0maGFzaF92YWx1ZT1RVE9yU216ZWhIejlxTXp3dUgyZFVRPT0mdmFsaWRtaW51dGVzPTIw
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4680.png" group-title="⚽Sport🌍",MAX 1
-http://6395online.com:8080/Iptv6988/0905692638/391630
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4681.png" group-title="⚽Sport🌍",MAX 2
-http://6395online.com:8080/Iptv6988/0905692638/391655
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4682.png" group-title="⚽Sport🌍",MAX 3
-http://6395online.com:8080/Iptv6988/0905692638/391679
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4683.png" group-title="⚽Sport🌍",MAX 4
-http://6395online.com:8080/Iptv6988/0905692638/391680
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4684.png" group-title="⚽Sport🌍",MAX 5
-http://6395online.com:8080/Iptv6988/0905692638/391702
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4685.png" group-title="⚽Sport🌍",MAX 6
-http://6395online.com:8080/Iptv6988/0905692638/391703
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4686.png" group-title="⚽Sport🌍",MAX 7
-http://6395online.com:8080/Iptv6988/0905692638/391704
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4687.png" group-title="⚽Sport🌍",MAX 8
-http://6395online.com:8080/Iptv6988/0905692638/391705
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4688.png" group-title="⚽Sport🌍",MAX 9
-http://6395online.com:8080/Iptv6988/0905692638/391706
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4689.png" group-title="⚽Sport🌍",MAX 10
-http://6395online.com:8080/Iptv6988/0905692638/398636
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4690.png" group-title="⚽Sport🌍",MAX 11
-http://6395online.com:8080/Iptv6988/0905692638/398637
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4691.png" group-title="⚽Sport🌍",MAX 12
-http://6395online.com:8080/Iptv6988/0905692638/441741
-
-#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax01.png" group-title="⚽Sport🌍",MONOMAX 1
-http://6395online.com:8080//Iptv6988/0905692638/391707
-#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax02.png" group-title="⚽Sport🌍",MONOMAX 2
-http://6395online.com:8080//Iptv6988/0905692638/391708
-#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax03.png" group-title="⚽Sport🌍",MONOMAX 3
-http://6395online.com:8080//Iptv6988/0905692638/391709
-#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax04.png" group-title="⚽Sport🌍",MONOMAX 4
-http://6395online.com:8080//Iptv6988/0905692638/391710
-#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax05.png" group-title="⚽Sport🌍",MONOMAX 5
-http://6395online.com:8080//Iptv6988/0905692638/391711
-#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax06.png" group-title="⚽Sport🌍",MONOMAX 6
-http://6395online.com:8080//Iptv6988/0905692638/391712
-#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax07.png" group-title="⚽Sport🌍",MONOMAX 7
-http://6395online.com:8080//Iptv6988/0905692638/391713
-#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax08.png" group-title="⚽Sport🌍",MONOMAX 8
-http://6395online.com:8080//Iptv6988/0905692638/391714
-#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax09.png" group-title="⚽Sport🌍",MONOMAX 9
-http://6395online.com:8080//Iptv6988/0905692638/391715
-#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax10.png" group-title="⚽Sport🌍",MONOMAX 10
-http://6395online.com:8080//Iptv6988/0905692638/391716
-#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/monomax/th-monomax11.png" group-title="⚽Sport🌍",MONOMAX 11
-http://6395online.com:8080//Iptv6988/0905692638/441740
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/82290.jpg" group-title="⚽Sport🌍",Monomax 1
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/82290/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1495.jpg" group-title="⚽Sport🌍",Mono MAX 1
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1495/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/82079.jpg" group-title="⚽Sport🌍",Monomax 2
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/82079/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1494.jpg" group-title="⚽Sport🌍",Mono MAX 2
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1494/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/82044.jpg" group-title="⚽Sport🌍",Monomax 3
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/82044/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1493.jpg" group-title="⚽Sport🌍",Mono MAX 3
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1493/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/81912.jpg" group-title="⚽Sport🌍",Monomax 4
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/81912/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1492.jpg" group-title="⚽Sport🌍",Mono MAX 4
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1492/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/81779.jpg" group-title="⚽Sport🌍",Monomax 5
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/81779/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1491.jpg" group-title="⚽Sport🌍",Mono MAX 5
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1491/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/81741.jpg" group-title="⚽Sport🌍",Monomax 6
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/81741/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1490.jpg" group-title="⚽Sport🌍",Mono MAX 6
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1490/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/81639.jpg" group-title="⚽Sport🌍",Monomax 7
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/81639/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1489.jpg" group-title="⚽Sport🌍",Mono MAX 7
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1489/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/81611.jpg" group-title="⚽Sport🌍",Monomax 8
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/81611/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1488.jpg" group-title="⚽Sport🌍",Mono MAX 8
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1488/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1487.jpg" group-title="⚽Sport🌍",Mono MAX 9
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1487/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1486.jpg" group-title="⚽Sport🌍",Mono MAX 10
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1486/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Nebiela/ALLMOV2/refs/heads/main/%E0%B8%9B%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%202569/videoframe.png" group-title="⚽Sport🌍",Monomax_PL 1 HD สด
@@ -476,13 +478,6 @@ https://yyi7tewa2x.3ppnkog.com/xstream/monomax-7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/MonomaxSportsTV-logo.png" group-title="⚽Sport🌍",MonoSports 8
 https://yyi7tewa2x.3ppnkog.com/xstream/monomax-8/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/1664499681.png" group-title="⚽Sport🌍",True Premier Football 3
-http://6395online.com:8080//Iptv6988/0905692638/391722
-#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/1664499692.png" group-title="⚽Sport🌍",True Premier Football 4
-http://6395online.com:8080//Iptv6988/0905692638/391723
-#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/sport/1664499700.png" group-title="⚽Sport🌍",True Premier Football 5
-http://6395online.com:8080//Iptv6988/0905692638/437738
 
 
 
