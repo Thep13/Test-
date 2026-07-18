@@ -261,6 +261,133 @@ https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1731057748.png" group-title="atmflix",alure-channel
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/alure-channel/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title="atmflix",afn
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/afn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703829940.png" group-title="atmflix",3bbasian
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/3bbasian/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344243.png" group-title="atmflix",cartoon-network
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/cartoon-network/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716361978.png" group-title="atmflix",disney-channel
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/disney-channel/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716362497.png" group-title="atmflix",disney-junior
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/disney-junior/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716362753.png" group-title="atmflix",disneyxd
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/disneyxd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1731890666.png" group-title="atmflix",euronews
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/euronews/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1753040524.png" group-title="atmflix",eurosport
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/eurosport/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1711566124.png" group-title="atmflix",eurosport1es
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/eurosport1es/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696062.png" group-title="atmflix",foodnetwork
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/foodnetwork/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664801941.png" group-title="atmflix",golfchannel
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/golfchannel/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786776.png" group-title="atmflix",hbo-family
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/hbo-family/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786599.png" group-title="atmflix",hbo-hits
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/hbo-hits/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786305.png" group-title="atmflix",hbo-signature
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/hbo-signature/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1731005824.png" group-title="atmflix",maxsport1hr
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/maxsport1hr/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703787713.png" group-title="atmflix",mono29
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/mono29/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703787733.png" group-title="atmflix",mono29plus
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/mono29plus/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1742428538.png" group-title="atmflix",mono-29-music-station
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/mono-29-music-station/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664532126.png" group-title="atmflix",nba
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/nba/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716366217.png" group-title="atmflix",national-geographic
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/national-geographic/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344362.png" group-title="atmflix",nickjr
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/nickjr/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344306.png" group-title="atmflix",nickelodeon
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/nickelodeon/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1718690264.png" group-title="atmflix",rock-action
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/rock-action/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1718690283.png" group-title="atmflix",rock-entertainment
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/rock-entertainment/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1731890461.png" group-title="atmflix",rt-documentary
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/rt-documentary/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1741273735.png" group-title="atmflix",rush-stories
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/rush-stories/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1712888821.png" group-title="atmflix",skysportsf1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/skysportsf1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663979709.png" group-title="atmflix",sporttv1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/sporttv1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663979801.png" group-title="atmflix",sporttv2
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/sporttv2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663980327.png" group-title="atmflix",sporttv3
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/sporttv3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664041351.png" group-title="atmflix",sporttv4
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/sporttv4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664125991.png" group-title="atmflix",sporttv5
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/sporttv5/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696038.png" group-title="atmflix",tlc
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tlc/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1742428803.png" group-title="atmflix",thainess
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/thainess/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719206155.png" group-title="atmflix",truex-zyte
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/truex-zyte/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1753040687.png" group-title="atmflix",w-sport
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/w-sport/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1704039063.png" group-title="atmflix",cartoonito
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/cartoonito/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1713282303.png" group-title="atmflix",nicktoons
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/nicktoons/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664202734.png" group-title="atmflix",sportdigital
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/sportdigital/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1726690688.png" group-title="atmflix",bein1_617
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/bein1_617/chunks.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4680.png" group-title="⚽Sport🌍",MAX 1
 http://6395online.com:8080/Iptv6988/0905692638/391630
