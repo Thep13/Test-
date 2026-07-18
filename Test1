@@ -388,6 +388,22 @@ https://cdn2.stream.atmflix.live/atmflixlive/bein1_617/chunks.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://kicksball.com/assets/img/logo.png" group-title="⚽Sport🌍",Event 1
+#EXTVLCOPT:http-referrer=https://kicksball.com
+https://dov.streaming-api.xyz/kicksballcom/mono29/chunks.m3u8?nimblesessionid=27942&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDI2IDc6Mzk6MTIgQU0maGFzaF92YWx1ZT1RVE9yU216ZWhIejlxTXp3dUgyZFVRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-logo="https://kicksball.com/assets/img/logo.png" group-title="⚽Sport🌍",Event 2
+#EXTVLCOPT:http-referrer=https://kicksball.com
+https://dov.streaming-api.xyz/kicksballcom/mono29/chunks.m3u8?nimblesessionid=27942&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDI2IDc6Mzk6MTIgQU0maGFzaF92YWx1ZT1RVE9yU216ZWhIejlxTXp3dUgyZFVRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-logo="https://kicksball.com/assets/img/logo.png" group-title="⚽Sport🌍",Event 3
+#EXTVLCOPT:http-referrer=https://kicksball.com
+https://dov.streaming-api.xyz/kicksballcom/mono29/chunks.m3u8?nimblesessionid=27942&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDI2IDc6Mzk6MTIgQU0maGFzaF92YWx1ZT1RVE9yU216ZWhIejlxTXp3dUgyZFVRPT0mdmFsaWRtaW51dGVzPTIw
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4680.png" group-title="⚽Sport🌍",MAX 1
 http://6395online.com:8080/Iptv6988/0905692638/391630
