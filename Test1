@@ -391,7 +391,8 @@ https://cdn2.stream.atmflix.live/atmflixlive/bein1_617/chunks.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://kicksball.com/assets/img/logo.png" group-title="⚽Sport🌍",Event 1
 #EXTVLCOPT:http-referrer=https://kicksball.com
-https://dov.streaming-api.xyz/kicksballcom/mono29/chunks.m3u8?nimblesessionid=30091&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDI2IDk6MDc6MTMgUE0maGFzaF92YWx1ZT1uVDlwU2RUMTZMQTFHVWN2Q2ZjdTJRPT0mdmFsaWRtaW51dGVzPTIw
+https://dov.streaming-api.xyz/kicksballcom/mono29/chunks.m3u8?nimblesessionid=30752&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDI2IDExOjI5OjQ2IEFNJmhhc2hfdmFsdWU9ZTdIVWZMbTljM0xDY1VIZUwwOFI1UT09JnZhbGlkbWludXRlcz0yMA==
+
 
 #EXTINF:-1 tvg-logo="https://kicksball.com/assets/img/logo.png" group-title="⚽Sport🌍",Event 2
 #EXTVLCOPT:http-referrer=https://kicksball.com
