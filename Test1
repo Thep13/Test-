@@ -1489,6 +1489,62 @@ https://cdn2.stream.atmflix.live/atmflixlive/playsports57/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1485.jpg" group-title="Play Sports",Play Sports 1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1439.jpg" group-title="Play Sports",Play Sports 2
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1484.jpg" group-title="Play Sports",Play Sports 55
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports55/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1483.jpg" group-title="Play Sports",Play Sports 56
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports56/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1441.jpg" group-title="Play Sports",Play Sports 57
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports57/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1440.jpg" group-title="Play Sports",Play Sports 58
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports58/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1482.jpg" group-title="Play Sports",Play Sports 61
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports61/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1481.jpg" group-title="Play Sports",Play Sports 62
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports62/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1480.jpg" group-title="Play Sports",Play Sports 63
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports63/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1438.jpg" group-title="Play Sports",Play Sports 64
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports64/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1479.jpg" group-title="Play Sports",Play Sports 66
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports66/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1478.jpg" group-title="Play Sports",Play Sports 69
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports69/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1477.jpg" group-title="Play Sports",Play Sports 71
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports71/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1476.jpg" group-title="Play Sports",Play Sports 72
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports72/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1475.jpg" group-title="Play Sports",Play Sports 73
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports73/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1433.jpg" group-title="Play Sports",Play Sports 74
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports74/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1432.jpg" group-title="Play Sports",Play Sports 75
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports75/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/layout/epg/poster/202606/2606302071781798987837442.png" group-title="Play Sports",Play Sports 90
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/playsports90/playlist.m3u8
+
+
 
 
 
