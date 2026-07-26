@@ -1489,6 +1489,10 @@ https://cdn2.stream.atmflix.live/atmflixlive/playsports57/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn.onefc.com/wp-content/uploads/2026/05/ONE-TIC-FullColor-darkBG-1-scaled.png" group-title="Play Sports",OneFc
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/onefc/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/1485.jpg" group-title="Play Sports",Play Sports 1
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/playsports1/playlist.m3u8
