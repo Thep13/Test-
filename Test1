@@ -1493,12 +1493,12 @@ https://cdn2.stream.atmflix.live/atmflixlive/playsports57/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/onefc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1485.jpg" group-title="Play Sports",Play Sports 1
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1485.jpg" group-title="Play Sports",Play Sports 41
 #EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/playsports1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1439.jpg" group-title="Play Sports",Play Sports 2
+https://cdn2.stream.atmflix.live/atmflixlive/playsports41/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1439.jpg" group-title="Play Sports",Play Sports 48
 #EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/playsports2/playlist.m3u8
+https://cdn2.stream.atmflix.live/atmflixlive/playsports48/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/1484.jpg" group-title="Play Sports",Play Sports 55
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/playsports55/playlist.m3u8
