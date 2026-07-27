@@ -144,11 +144,11 @@ https://cdn2.stream.atmflix.live/atmflixlive/tsp1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport2.jpg" group-title="TV THAILAND",True Sports 2
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tsp2/playlist.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport2.jpg",True Sports 2
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport2.jpg" group-title="TV THAILAND",True Sports 3
+
+#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport3.jpg" group-title="TV THAILAND",True Sports 3
 #EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/tsp2/playlist.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport3.jpg",True Sports 3
+https://cdn2.stream.atmflix.live/atmflixlive/tsp3/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport4.jpg" group-title="TV THAILAND",True Sports 4
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tsp4/playlist.m3u8
