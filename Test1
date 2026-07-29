@@ -862,7 +862,12 @@ https://cdn2.stream.atmflix.live/atmflixlive/playsports75/playlist.m3u8
 https://cdn2.stream.atmflix.live/atmflixlive/playsports90/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/12684.jpg" group-title="Play Sports",LFCtv
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/lfctv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1239.jpg" group-title="Play Sports",MUtv
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/mutv/chunks.m3u8
 
 
 
