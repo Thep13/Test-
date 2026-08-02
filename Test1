@@ -882,7 +882,12 @@ https://cdn2.stream.atmflix.live/atmflixlive/atvp3/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/atvp4/chunks.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Logo_TrueVisions.svg/500px-Logo_TrueVisions.svg.png" group-title="Play Sports",Volleyball 1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/volleyball1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Logo_TrueVisions.svg/500px-Logo_TrueVisions.svg.png" group-title="Play Sports",Volleyball 2
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/volleyball2/chunks.m3u8
 
 
 
