@@ -501,10 +501,6 @@ https://godlivetv.io/madoball/2891/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="Badminton",True Sport 7
 #EXTVLCOPT:http-referrer=https://madoball.com/
 https://godlivetv.io/madoball/2829/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="Badminton",True Sport HD 2
-https://hls.iptv-th.workers.dev/live/147/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="Badminton",True Sport 7
-https://hls.iptv-th.workers.dev/live/116/playlist.m3u8
 
 
 
