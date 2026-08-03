@@ -1,12 +1,10 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/5.png" group-title="TV THAILAND",CH5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
-
 #EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png" group-title="TV THAILAND",T Sports 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
@@ -129,8 +127,7 @@ https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwalZjr.png" group-title="TV THAILAND",Thai PBS (Ga 24 Jam)
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="TV THAILAND",HBO FAMILY 106
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/106.png" group-title="TV THAILAND",HBO FAMILY 106
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
@@ -138,74 +135,69 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 https://live.mee88player.com/live/2027.m3u8
 #EXTINF:-1 tvg-logo="https://image.mee77player.com/images/20240418193135SPOTV2.jpg" group-title="TV THAILAND",SpoM 2
 https://live.mee88player.com/live/2023.m3u8
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport01.jpg" group-title="TV THAILAND",True Sports🏌️
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2892.jpg" group-title="TV THAILAND",True Sports🏌️
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tsp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport2.jpg" group-title="TV THAILAND",True Sports 2
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2890.jpg" group-title="TV THAILAND",True Sports 2
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tsp2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport3.jpg" group-title="TV THAILAND",True Sports 3
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2890.jpg" group-title="TV THAILAND",True Sports 3
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tsp3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport4.jpg" group-title="TV THAILAND",True Sports 4
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2889.jpg" group-title="TV THAILAND",True Sports 4
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tsp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport5.jpg" group-title="TV THAILAND",True Sports 5
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2888.jpg" group-title="TV THAILAND",True Sports 5
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tsp5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport7.jpg" group-title="TV THAILAND",True Sports 7
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2829.jpg" group-title="TV THAILAND",True Sports 7
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tsp7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/doomovie-epl3.png" group-title="TV THAILAND",True Premire 3
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2018.jpg" group-title="TV THAILAND",True Premire 3
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tpf3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/doomovie-epl4.png" group-title="TV THAILAND",True Premire 4
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2017.jpg" group-title="TV THAILAND",True Premire 4
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tpf4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/epl-bein1.jpg" group-title="TV THAILAND",bein 1
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/7424.jpg" group-title="TV THAILAND",bein 1
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/bein1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/epl-bein2.jpg" group-title="TV THAILAND",bein 2
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/7423.jpg" group-title="TV THAILAND",bein 2
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/bein2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/epl-bein3.jpg" group-title="TV THAILAND",bein 3
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/7422.jpg" group-title="TV THAILAND",bein 3
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/bein3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/SPOTV1.jpg" group-title="TV THAILAND",SPOTV1
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2027.jpg" group-title="TV THAILAND",SPOTV1
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/spotv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/SPOTV2.jpg" group-title="TV THAILAND",SPOTV2
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2023.jpg" group-title="TV THAILAND",SPOTV2
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/spotv2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport7.jpg" group-title="TV THAILAND",HBO
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2820.jpg" group-title="TV THAILAND",HBO
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport7.jpg" group-title="TV THAILAND",Cinemax
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2815.jpg" group-title="TV THAILAND",Cinemax
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/cinemax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport7.jpg" group-title="TV THAILAND",Discovery
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1546.jpg" group-title="TV THAILAND",Discovery
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/discovery/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport7.jpg" group-title="TV THAILAND",Truefilm1
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1877.jpg" group-title="TV THAILAND",Truefilm1
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/truefilm1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport7.jpg" group-title="TV THAILAND",Truefilm2
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/1877.jpg" group-title="TV THAILAND",Truefilm2
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/truefilm2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport7.jpg" group-title="TV THAILAND",Samrujlok
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/563.jpg" group-title="TV THAILAND",Samrujlok
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/samrujlok/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport7.jpg" group-title="TV THAILAND",Truetennis
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2101.jpg" group-title="TV THAILAND",Truetennis
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/truetennis/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doonewmovie365.com/assets/img/ch_logo/TrueSport7.jpg" group-title="TV THAILAND",Animalshow
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/710.jpg" group-title="TV THAILAND",Animalshow
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/animalshow/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="TV THAILAND",movies1
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/H-Channel
@@ -221,32 +213,6 @@ http://49.0.64.96:8007/IZAA
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="TV THAILAND",movies5
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://49.0.64.96:8007/PING
-
-
-#EXTINF:-1 group-title="TV THAILAND",IPLAYMEDIA
-http://43.229.132.25:80//freeworldcup2026/freeworldcup2026/38
-#EXTINF:-1 group-title="TV THAILAND",THAIMOVIE
-http://43.229.132.25:80//freeworldcup2026/freeworldcup2026/39
-#EXTINF:-1 group-title="TV THAILAND",ASIANMOVIE
-http://43.229.132.25:80//freeworldcup2026/freeworldcup2026/40
-#EXTINF:-1 group-title="TV THAILAND",INTERMOVIE
-http://43.229.132.25:80//freeworldcup2026/freeworldcup2026/41
-#EXTINF:-1 group-title="TV THAILAND",THAISERIES
-http://43.229.132.25:80//freeworldcup2026/freeworldcup2026/42
-#EXTINF:-1 group-title="TV THAILAND",INTERSERIES
-http://43.229.132.25:80//freeworldcup2026/freeworldcup2026/43
-#EXTINF:-1 group-title="TV THAILAND",ANIMETV
-http://43.229.132.25:80//freeworldcup2026/freeworldcup2026/45
-#EXTINF:-1 group-title="TV THAILAND",SITCOM-VARIETY
-http://43.229.132.25:80//freeworldcup2026/freeworldcup2026/46
-#EXTINF:-1 group-title="TV THAILAND",CONCERT
-http://43.229.132.25:80//freeworldcup2026/freeworldcup2026/47
-#EXTINF:-1 group-title="TV THAILAND",SPORTSRERUN
-http://43.229.132.25:80//freeworldcup2026/freeworldcup2026/48
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png" group-title="TV THAILAND",Animal
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://49.0.64.96:8007/Animal
@@ -261,137 +227,132 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-sam
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="TV THAILAND",XPLORE
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1731057748.png" group-title="atmflix",alure-channel
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1731057748.png" group-title="TV THAILAND",alure-channel
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/alure-channel/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title="atmflix",afn
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title="TV THAILAND",afn
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/afn/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703829940.png" group-title="atmflix",3bbasian
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703829940.png" group-title="TV THAILAND",3bbasian
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/3bbasian/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344243.png" group-title="atmflix",cartoon-network
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344243.png" group-title="TV THAILAND",cartoon-network
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/cartoon-network/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716361978.png" group-title="atmflix",disney-channel
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716361978.png" group-title="TV THAILAND",disney-channel
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/disney-channel/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716362497.png" group-title="atmflix",disney-junior
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716362497.png" group-title="TV THAILAND",disney-junior
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/disney-junior/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716362753.png" group-title="atmflix",disneyxd
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716362753.png" group-title="TV THAILAND",disneyxd
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/disneyxd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1731890666.png" group-title="atmflix",euronews
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1731890666.png" group-title="TV THAILAND",euronews
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/euronews/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1753040524.png" group-title="atmflix",eurosport
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1753040524.png" group-title="TV THAILAND",eurosport
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/eurosport/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1711566124.png" group-title="atmflix",eurosport1es
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1711566124.png" group-title="TV THAILAND",eurosport1es
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/eurosport1es/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696062.png" group-title="atmflix",foodnetwork
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696062.png" group-title="TV THAILAND",foodnetwork
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/foodnetwork/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664801941.png" group-title="atmflix",golfchannel
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664801941.png" group-title="TV THAILAND",golfchannel
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/golfchannel/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786776.png" group-title="atmflix",hbo-family
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786776.png" group-title="TV THAILAND",hbo-family
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/hbo-family/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786599.png" group-title="atmflix",hbo-hits
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786599.png" group-title="TV THAILAND",hbo-hits
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/hbo-hits/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786305.png" group-title="atmflix",hbo-signature
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786305.png" group-title="TV THAILAND",hbo-signature
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/hbo-signature/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1731005824.png" group-title="atmflix",maxsport1hr
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1731005824.png" group-title="TV THAILAND",maxsport1hr
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/maxsport1hr/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703787713.png" group-title="atmflix",mono29
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703787713.png" group-title="TV THAILAND",mono29
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/mono29/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703787733.png" group-title="atmflix",mono29plus
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703787733.png" group-title="TV THAILAND",mono29plus
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/mono29plus/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1742428538.png" group-title="atmflix",mono-29-music-station
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1742428538.png" group-title="TV THAILAND",mono-29-music-station
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/mono-29-music-station/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664532126.png" group-title="atmflix",nba
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664532126.png" group-title="TV THAILAND",nba
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/nba/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716366217.png" group-title="atmflix",national-geographic
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716366217.png" group-title="TV THAILAND",national-geographic
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/national-geographic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344362.png" group-title="atmflix",nickjr
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344362.png" group-title="TV THAILAND",nickjr
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/nickjr/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344306.png" group-title="atmflix",nickelodeon
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344306.png" group-title="TV THAILAND",nickelodeon
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/nickelodeon/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1718690264.png" group-title="atmflix",rock-action
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1718690264.png" group-title="TV THAILAND",rock-action
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/rock-action/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1718690283.png" group-title="atmflix",rock-entertainment
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1718690283.png" group-title="TV THAILAND",rock-entertainment
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/rock-entertainment/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1731890461.png" group-title="atmflix",rt-documentary
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1731890461.png" group-title="TV THAILAND",rt-documentary
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/rt-documentary/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1741273735.png" group-title="atmflix",rush-stories
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1741273735.png" group-title="TV THAILAND",rush-stories
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/rush-stories/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1712888821.png" group-title="atmflix",skysportsf1
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1712888821.png" group-title="TV THAILAND",skysportsf1
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/skysportsf1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663979709.png" group-title="atmflix",sporttv1
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663979709.png" group-title="TV THAILAND",sporttv1
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/sporttv1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663979801.png" group-title="atmflix",sporttv2
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663979801.png" group-title="TV THAILAND",sporttv2
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/sporttv2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663980327.png" group-title="atmflix",sporttv3
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663980327.png" group-title="TV THAILAND",sporttv3
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/sporttv3/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664041351.png" group-title="atmflix",sporttv4
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664041351.png" group-title="TV THAILAND",sporttv4
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/sporttv4/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664125991.png" group-title="atmflix",sporttv5
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664125991.png" group-title="TV THAILAND",sporttv5
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/sporttv5/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696038.png" group-title="atmflix",tlc
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696038.png" group-title="TV THAILAND",tlc
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/tlc/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1742428803.png" group-title="atmflix",thainess
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1742428803.png" group-title="TV THAILAND",thainess
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/thainess/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719206155.png" group-title="atmflix",truex-zyte
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719206155.png" group-title="TV THAILAND",truex-zyte
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/truex-zyte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1753040687.png" group-title="atmflix",w-sport
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1753040687.png" group-title="TV THAILAND",w-sport
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/w-sport/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1704039063.png" group-title="atmflix",cartoonito
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1704039063.png" group-title="TV THAILAND",cartoonito
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/cartoonito/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1713282303.png" group-title="atmflix",nicktoons
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1713282303.png" group-title="TV THAILAND",nicktoons
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/nicktoons/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664202734.png" group-title="atmflix",sportdigital
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664202734.png" group-title="TV THAILAND",sportdigital
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/sportdigital/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1726690688.png" group-title="atmflix",bein1_617
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1726690688.png" group-title="TV THAILAND",bein1_617
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/bein1_617/chunks.m3u8
 
 
 
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://kicksball.com/assets/img/logo.png" group-title="⚽Sport🌍",Event 1
 #EXTVLCOPT:http-referrer=https://kicksball.com
 https://dov.streaming-api.xyz/kicksballcom/mono29/chunks.m3u8?nimblesessionid=31231&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDI2IDY6NDY6MDMgUE0maGFzaF92YWx1ZT1LNjlaRDlUb3kvMDgvdlVWK1JobnZ3PT0mdmFsaWRtaW51dGVzPTIw
