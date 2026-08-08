@@ -575,36 +575,33 @@ https://cdn2.stream.atmflix.live/atmflixlive/volleyball1/chunks.m3u8
 https://cdn2.stream.atmflix.live/atmflixlive/volleyball2/chunks.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-circle-live-button-diffusion-icon-png-image_5601931.jpg" group-title="J/K League",EVENT 1
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-circle-live-button-diffusion-icon-png-image_5601931.jpg" group-title="BG J/K League",EVENT 1
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/event1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-circle-live-button-diffusion-icon-png-image_5601931.jpg" group-title="J/K League",EVENT 2
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-circle-live-button-diffusion-icon-png-image_5601931.jpg" group-title="BG J/K League",EVENT 2
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/event2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-circle-live-button-diffusion-icon-png-image_5601931.jpg" group-title="J/K League",EVENT 3
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-circle-live-button-diffusion-icon-png-image_5601931.jpg" group-title="BG J/K League",EVENT 3
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/event3/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-circle-live-button-diffusion-icon-png-image_5601931.jpg" group-title="J/K League",EVENT 4
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-circle-live-button-diffusion-icon-png-image_5601931.jpg" group-title="BG J/K League",EVENT 4
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/event4/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-circle-live-button-diffusion-icon-png-image_5601931.jpg" group-title="J/K League",EVENT 5
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-circle-live-button-diffusion-icon-png-image_5601931.jpg" group-title="BG J/K League",EVENT 5
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/event5/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-circle-live-button-diffusion-icon-png-image_5601931.jpg" group-title="J/K League",EVENT 6
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-circle-live-button-diffusion-icon-png-image_5601931.jpg" group-title="BG J/K League",EVENT 6
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/event6/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-circle-live-button-diffusion-icon-png-image_5601931.jpg" group-title="J/K League",EVENT 7
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-circle-live-button-diffusion-icon-png-image_5601931.jpg" group-title="BG J/K League",EVENT 7
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/event7/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-circle-live-button-diffusion-icon-png-image_5601931.jpg" group-title="J/K League",EVENT 8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-circle-live-button-diffusion-icon-png-image_5601931.jpg" group-title="BG J/K League",EVENT 8
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/event8/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-circle-live-button-diffusion-icon-png-image_5601931.jpg" group-title="J/K League",EVENT 9
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-circle-live-button-diffusion-icon-png-image_5601931.jpg" group-title="BG J/K League",EVENT 9
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/event9/chunks.m3u8
-
 
 
 
