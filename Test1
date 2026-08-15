@@ -353,75 +353,48 @@ https://cdn2.stream.atmflix.live/atmflixlive/bein1_617/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://kicksball.com/assets/img/logo.png" group-title="⚽Sport🌍",Event 1
-#EXTVLCOPT:http-referrer=https://kicksball.com
-https://dov.streaming-api.xyz/kicksballcom/mono29/chunks.m3u8?nimblesessionid=31231&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDI2IDY6NDY6MDMgUE0maGFzaF92YWx1ZT1LNjlaRDlUb3kvMDgvdlVWK1JobnZ3PT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1 tvg-logo="https://kicksball.com/assets/img/logo.png" group-title="⚽Sport🌍",Event 2
-#EXTVLCOPT:http-referrer=https://kicksball.com
-https://dov.streaming-api.xyz/kicksballcom/mono29/chunks.m3u8?nimblesessionid=27942&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDI2IDc6Mzk6MTIgQU0maGFzaF92YWx1ZT1RVE9yU216ZWhIejlxTXp3dUgyZFVRPT0mdmFsaWRtaW51dGVzPTIw
-
-
-#EXTINF:-1 tvg-logo="https://kicksball.com/assets/img/logo.png" group-title="⚽Sport🌍",Event 3
-#EXTVLCOPT:http-referrer=https://kicksball.com
-https://dov.streaming-api.xyz/kicksballcom/mono29/chunks.m3u8?nimblesessionid=27942&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDI2IDc6Mzk6MTIgQU0maGFzaF92YWx1ZT1RVE9yU216ZWhIejlxTXp3dUgyZFVRPT0mdmFsaWRtaW51dGVzPTIw
-
-
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/82290.jpg" group-title="⚽Sport🌍",Monomax 1
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/82290/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1495.jpg" group-title="⚽Sport🌍",Mono MAX 1
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1495/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/82079.jpg" group-title="⚽Sport🌍",Monomax 2
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/82079/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1494.jpg" group-title="⚽Sport🌍",Mono MAX 2
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1494/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/82044.jpg" group-title="⚽Sport🌍",Monomax 3
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/82044/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1493.jpg" group-title="⚽Sport🌍",Mono MAX 3
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1493/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/81912.jpg" group-title="⚽Sport🌍",Monomax 4
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/81912/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1492.jpg" group-title="⚽Sport🌍",Mono MAX 4
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1492/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/81779.jpg" group-title="⚽Sport🌍",Monomax 5
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/81779/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1491.jpg" group-title="⚽Sport🌍",Mono MAX 5
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1491/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/81741.jpg" group-title="⚽Sport🌍",Monomax 6
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/81741/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1490.jpg" group-title="⚽Sport🌍",Mono MAX 6
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1490/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/81639.jpg" group-title="⚽Sport🌍",Monomax 7
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/81639/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1489.jpg" group-title="⚽Sport🌍",Mono MAX 7
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1489/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/81611.jpg" group-title="⚽Sport🌍",Monomax 8
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/81611/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1488.jpg" group-title="⚽Sport🌍",Mono MAX 8
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1488/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1487.jpg" group-title="⚽Sport🌍",Mono MAX 9
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1487/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1486.jpg" group-title="⚽Sport🌍",Mono MAX 10
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1486/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2892.jpg" group-title="True​Sport",True Sports🏌️
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2890.jpg" group-title="True​Sport",True Sports 2
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2890.jpg" group-title="True​Sport",True Sports 3
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2889.jpg" group-title="True​Sport",True Sports 4
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2888.jpg" group-title="True​Sport",True Sports 5
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2829.jpg" group-title="True​Sport",True Sports 7
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tsp7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2018.jpg" group-title="True​Sport",True Premire 3
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tpf3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2017.jpg" group-title="True​Sport",True Premire 4
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tpf4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/7424.jpg" group-title="True​Sport",bein 1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/bein1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/7423.jpg" group-title="True​Sport",bein 2
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/bein2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/7422.jpg" group-title="True​Sport",bein 3
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/bein3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2027.jpg" group-title="True​Sport",SPOTV1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/spotv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2023.jpg" group-title="True​Sport",SPOTV2
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/spotv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2101.jpg" group-title="True​Sport",Truetennis
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/truetennis/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4680.png" group-title="⚽Sport🌍",MAX 1 HD PL
 #EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
