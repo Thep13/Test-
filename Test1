@@ -400,6 +400,69 @@ https://cdn2.stream.atmflix.live/atmflixlive/truetennis/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/81b63bb8ba4e.png" group-title="True​Sport",TrueSportHD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/tsp1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/81b63bb8ba4e.png" group-title="True​Sport",TrueSportHD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/tsp2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/81b63bb8ba4e.png" group-title="True​Sport",TrueSportHD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/tsp3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/81b63bb8ba4e.png" group-title="True​Sport",TrueSport 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/tsp7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/81b63bb8ba4e.png" group-title="True​Sport",True bein1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/81b63bb8ba4e.png" group-title="True​Sport",True bein2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/81b63bb8ba4e.png" group-title="True​Sport",True bein3
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/81b63bb8ba4e.png" group-title="True​Sport",True bein4
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/81b63bb8ba4e.png" group-title="True​Sport",True bein5
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/81b63bb8ba4e.png" group-title="True​Sport",True bein6
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/81b63bb8ba4e.png" group-title="True​Sport",True SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/spotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/81b63bb8ba4e.png" group-title="True​Sport",True SPOTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/spotv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/36480ac3d156.png" group-title="True​Sport",MU TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; TrueID TV Build/PTT1.181126.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/mutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/761a1aa6c52e.png" group-title="True​Sport",LFC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/ALittleAnt4161/m3u8/refs/heads/main/LFCTV3.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/761a1aa6c52e.png" group-title="True​Sport",LFC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/lfctv/playlist.m3u8
+
+
+
 
 
 
