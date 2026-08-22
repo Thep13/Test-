@@ -505,7 +505,15 @@ https://live.livedoomovies.com:4433/live/Monomax_PL_4HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4684.png" group-title="⚽Monomax⚽",MAX 5 HD PL
 #EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
 https://live.livedoomovies.com:4433/live/Monomax_PL_5HD/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4685.png" group-title="⚽Monomax⚽",MAX 6 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_6HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4686.png" group-title="⚽Monomax⚽",MAX 7 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_7HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4687.png" group-title="⚽Monomax⚽",MAX 8 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_8HD/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/1495.jpg" group-title="⚽Monomax⚽",Mono MAX 1
