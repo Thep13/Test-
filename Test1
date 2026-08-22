@@ -516,37 +516,6 @@ https://live.livedoomovies.com:4433/live/Monomax_PL_7HD/playlist.m3u8
 https://live.livedoomovies.com:4433/live/Monomax_PL_8HD/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1495.jpg" group-title="⚽Monomax⚽",Mono MAX 1
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1495/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1494.jpg" group-title="⚽Monomax⚽",Mono MAX 2
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1494/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1493.jpg" group-title="⚽Monomax⚽",Mono MAX 3
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1493/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1492.jpg" group-title="⚽Monomax⚽",Mono MAX 4
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1492/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1491.jpg" group-title="⚽Monomax⚽",Mono MAX 5
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1491/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1490.jpg" group-title="⚽Monomax⚽",Mono MAX 6
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1490/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1489.jpg" group-title="⚽Monomax⚽",Mono MAX 7
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1489/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1488.jpg" group-title="⚽Monomax⚽",Mono MAX 8
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1488/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1487.jpg" group-title="⚽Monomax⚽",Mono MAX 9
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1487/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1486.jpg" group-title="⚽Monomax⚽",Mono MAX 10
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/1486/playlist.m3u8
-
 
 
 
