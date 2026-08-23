@@ -490,6 +490,44 @@ https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4687.png" group-title="⚽Monomax⚽",Monomax 8
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports8/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4680.png" group-title="⚽Monomax⚽",MAX 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/monomax-sports1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4681.png" group-title="⚽Monomax⚽",MAX 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/monomax-sports2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4682.png" group-title="⚽Monomax⚽",MAX 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/monomax-sports3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4683.png" group-title="⚽Monomax⚽",MAX 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/monomax-sports4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4684.png" group-title="⚽Monomax⚽",MAX 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/monomax-sports5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4685.png" group-title="⚽Monomax⚽",MAX 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/monomax-sports6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4686.png" group-title="⚽Monomax⚽",MAX 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/monomax-sports7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4687.png" group-title="⚽Monomax⚽",MAX 8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/monomax-sports8/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4680.png" group-title="⚽Monomax⚽",MAX 1 HD PL
 #EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
 https://live.livedoomovies.com:4433/live/Monomax_PL_1HD/playlist.m3u8
