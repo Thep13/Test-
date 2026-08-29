@@ -315,6 +315,47 @@ https://cdn2.stream.atmflix.live/atmflixlive/bein1_617/chunks.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2892.jpg" group-title="True​Sport",True Sports🏌️
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/tsp1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2891.jpg" group-title="True​Sport",True Sports 2
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/tsp2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2890.jpg" group-title="True​Sport",True Sports 3
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/tsp3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2889.jpg" group-title="True​Sport",True Sports 4
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/tsp4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2888.jpg" group-title="True​Sport",True Sports 5
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/tsp5/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2829.jpg" group-title="True​Sport",True Sports 7
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/tsp7/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2018.jpg" group-title="True​Sport",True Premire 3
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/tpf3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2017.jpg" group-title="True​Sport",True Premire 4
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/tpf4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/7424.jpg" group-title="True​Sport",bein 1
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/bein1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/7423.jpg" group-title="True​Sport",bein 2
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/bein2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/7422.jpg" group-title="True​Sport",bein 3
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/bein3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2027.jpg" group-title="True​Sport",SPOTV1
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/spotv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2023.jpg" group-title="True​Sport",SPOTV2
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/spotv2/chunks.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/2892.jpg" group-title="True​Sport",True Sports🏌️
