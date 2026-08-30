@@ -469,10 +469,11 @@ https://cdn1.amazaa.live/dbl/monomax-sports8/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://cdn1.amazaa.live/dbl/monomax-sports9/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/tCz5uOf1XPW1RLITmCX46urCatF7NbI20250830165328Mono1.jpg" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax 1
-https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/iXhTKaiiI28FnKABVrsnIpyEoKzUgYi20250904190235Monomax1.jpg" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax 1 Bk
-https://hls.iptv-th.workers.dev/live/3967/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4680.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 1 HD PL
 #EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
 https://live.livedoomovies.com:4433/live/Monomax_PL_1HD/playlist.m3u8
