@@ -314,6 +314,33 @@ https://cdn2.stream.atmflix.live/atmflixlive/bein1_617/chunks.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2892.jpg" group-title="INWSport",True Sports🏌️
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://edge-2.m-fixer.net:8092/stream/inw/truesport1/master.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2891.jpg" group-title="INWSport",True Sports 2
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://edge-2.m-fixer.net:8092/stream/inw/truesport2/master.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2890.jpg" group-title="INWSport",True Sports 3
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://edge-2.m-fixer.net:8092/stream/inw/truesport3/master.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2889.jpg" group-title="INWSport",True Sports 4
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://edge-2.m-fixer.net:8092/stream/inw/truesport4/master.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2888.jpg" group-title="INWSport",True Sports 5
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://edge-2.m-fixer.net:8092/stream/inw/truesport5/master.m3u8
+#EXTINF:-1 tvg-logo="https://madoball.com/upload/2829.jpg" group-title="INWSport",True Sports 7
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://edge-2.m-fixer.net:8092/stream/inw/truesport7/master.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/2892.jpg" group-title="True​Sport",True Sports🏌️
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://cdn1.amazaa.live/dbl/tsp1/chunks.m3u8
