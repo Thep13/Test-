@@ -538,7 +538,10 @@ https://cdn1.amazaa.live/dbl/monomax-sports8/chunks.m3u8
 https://cdn1.amazaa.live/dbl/monomax-sports9/chunks.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/tCz5uOf1XPW1RLITmCX46urCatF7NbI20250830165328Mono1.jpg" group-title="⚽Monomax⚽",MonoMax 1
+https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/iXhTKaiiI28FnKABVrsnIpyEoKzUgYi20250904190235Monomax1.jpg" group-title="⚽Monomax⚽",MonoMax 1 Bk
+https://hls.iptv-th.workers.dev/live/3967/playlist.m3u8
 
 
 
