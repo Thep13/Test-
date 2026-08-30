@@ -340,7 +340,7 @@ https://edge-2.m-fixer.net:8092/stream/inw/truesport7/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://madoball.com/upload/2023.jpg" group-title="INWSport",Spotv2
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://edge-2.m-fixer.net:8092/stream/inw/truesport1/master.m3u8
+https://edge-2.m-fixer.net:8092/stream/inw/motogp1/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="INWSport",Aisplay90
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://dooballland.com/
