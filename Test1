@@ -421,133 +421,115 @@ https://edge-2.m-fixer.net:8092/stream/ais/aisplay96/master.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="⚽Monomax⚽",MAX3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://live.mee77player.com/
 https://live.mee88player.com/live/82079.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="⚽Monomax⚽",MAX4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://live.mee77player.com/
 https://live.mee88player.com/live/82044.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="⚽Monomax⚽",MAX5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://live.mee77player.com/
 https://live.mee88player.com/live/1491.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="⚽Monomax⚽",MAX01
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://cdn1.amazaa.live/dbl/monomax-sports1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="⚽Monomax⚽",MAX02
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://cdn1.amazaa.live/dbl/monomax-sports2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="⚽Monomax⚽",MAX03
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://cdn1.amazaa.live/dbl/monomax-sports3/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="⚽Monomax⚽",MAX04
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://cdn1.amazaa.live/dbl/monomax-sports4/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="⚽Monomax⚽",MAX05
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://cdn1.amazaa.live/dbl/monomax-sports5/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="⚽Monomax⚽",MAX06
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://cdn1.amazaa.live/dbl/monomax-sports6/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="⚽Monomax⚽",MAX07
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://cdn1.amazaa.live/dbl/monomax-sports7/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="⚽Monomax⚽",MAX08
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://cdn1.amazaa.live/dbl/monomax-sports8/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="⚽Monomax⚽",MAX09
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://cdn1.amazaa.live/dbl/monomax-sports9/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/tCz5uOf1XPW1RLITmCX46urCatF7NbI20250830165328Mono1.jpg" group-title="⚽Monomax⚽",MonoMax 1
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/tCz5uOf1XPW1RLITmCX46urCatF7NbI20250830165328Mono1.jpg" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax 1
 https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/iXhTKaiiI28FnKABVrsnIpyEoKzUgYi20250904190235Monomax1.jpg" group-title="⚽Monomax⚽",MonoMax 1 Bk
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/iXhTKaiiI28FnKABVrsnIpyEoKzUgYi20250904190235Monomax1.jpg" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax 1 Bk
 https://hls.iptv-th.workers.dev/live/3967/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4680.png" group-title="⚽Monomax⚽",MAX 1 HD PL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4680.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 1 HD PL
 #EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
 https://live.livedoomovies.com:4433/live/Monomax_PL_1HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4681.png" group-title="⚽Monomax⚽",MAX 2 HD PL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4681.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 2 HD PL
 #EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
 https://live.livedoomovies.com:4433/live/Monomax_PL_2HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4682.png" group-title="⚽Monomax⚽",MAX 3 HD PL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4682.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 3 HD PL
 #EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
 https://live.livedoomovies.com:4433/live/Monomax_PL_3HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4683.png" group-title="⚽Monomax⚽",MAX 4 HD PL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4683.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 4 HD PL
 #EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
 https://live.livedoomovies.com:4433/live/Monomax_PL_4HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4684.png" group-title="⚽Monomax⚽",MAX 5 HD PL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4684.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 5 HD PL
 #EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
 https://live.livedoomovies.com:4433/live/Monomax_PL_5HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4685.png" group-title="⚽Monomax⚽",MAX 6 HD PL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4685.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 6 HD PL
 #EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
 https://live.livedoomovies.com:4433/live/Monomax_PL_6HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4686.png" group-title="⚽Monomax⚽",MAX 7 HD PL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4686.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 7 HD PL
 #EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
 https://live.livedoomovies.com:4433/live/Monomax_PL_7HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4687.png" group-title="⚽Monomax⚽",MAX 8 HD PL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4687.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 8 HD PL
 #EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
 https://live.livedoomovies.com:4433/live/Monomax_PL_8HD/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="BG J/K League",MAXSTREAM01
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAXSTREAM01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://full24th.com/
 https://ipc-vr5-smos.shop/maxsport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="BG J/K League",MAXSTREAM02
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAXSTREAM02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://full24th.com/
 https://ipc-vr5-smos.shop/maxsport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="BG J/K League",MAXSTREAM03
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAXSTREAM03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://full24th.com/
 https://ipc-vr5-smos.shop/maxsport3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="BG J/K League",MAXSTREAM04
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAXSTREAM04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://full24th.com/
 https://ipc-vr5-smos.shop/maxsport4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="BG J/K League",MAXSTREAM05
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAXSTREAM05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://full24th.com/
 https://ipc-vr5-smos.shop/maxsport5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="BG J/K League",MAXSTREAM06
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAXSTREAM06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://full24th.com/
 https://ipc-vr5-smos.shop/maxsport6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="BG J/K League",MAXSTREAM07
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAXSTREAM07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://full24th.com/
 https://ipc-vr5-smos.shop/maxsport7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="BG J/K League",MAXSTREAM08
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAXSTREAM08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://full24th.com/
 https://ipc-vr5-smos.shop/maxsport8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="BG J/K League",MAXSTREAM09
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAXSTREAM09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://24goals.com/
 https://ealivefotex.com/maxsport9/tracks-v1a1/mono.m3u8
