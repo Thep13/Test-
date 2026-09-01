@@ -134,30 +134,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/2820.jpg" group-title="TV THAILAND",HBO
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/2815.jpg" group-title="TV THAILAND",Cinemax
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/cinemax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1546.jpg" group-title="TV THAILAND",Discovery
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/discovery/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1877.jpg" group-title="TV THAILAND",Truefilm1
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/truefilm1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1877.jpg" group-title="TV THAILAND",Truefilm2
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/truefilm2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/563.jpg" group-title="TV THAILAND",Samrujlok
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/samrujlok/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/710.jpg" group-title="TV THAILAND",Animalshow
-#EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/animalshow/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU" group-title="TV THAILAND",movies1
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
@@ -188,129 +164,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-sam
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="TV THAILAND",XPLORE
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1731057748.png" group-title="TV THAILAND",alure-channel
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/alure-channel/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696078.png" group-title="TV THAILAND",afn
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/afn/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703829940.png" group-title="TV THAILAND",3bbasian
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/3bbasian/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344243.png" group-title="TV THAILAND",cartoon-network
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/cartoon-network/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716361978.png" group-title="TV THAILAND",disney-channel
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/disney-channel/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716362497.png" group-title="TV THAILAND",disney-junior
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/disney-junior/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716362753.png" group-title="TV THAILAND",disneyxd
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/disneyxd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1731890666.png" group-title="TV THAILAND",euronews
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/euronews/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1753040524.png" group-title="TV THAILAND",eurosport
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/eurosport/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1711566124.png" group-title="TV THAILAND",eurosport1es
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/eurosport1es/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696062.png" group-title="TV THAILAND",foodnetwork
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/foodnetwork/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664801941.png" group-title="TV THAILAND",golfchannel
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/golfchannel/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786776.png" group-title="TV THAILAND",hbo-family
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/hbo-family/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786599.png" group-title="TV THAILAND",hbo-hits
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/hbo-hits/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786305.png" group-title="TV THAILAND",hbo-signature
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/hbo-signature/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1731005824.png" group-title="TV THAILAND",maxsport1hr
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/maxsport1hr/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703787713.png" group-title="TV THAILAND",mono29
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/mono29/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703787733.png" group-title="TV THAILAND",mono29plus
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/mono29plus/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1742428538.png" group-title="TV THAILAND",mono-29-music-station
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/mono-29-music-station/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664532126.png" group-title="TV THAILAND",nba
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/nba/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716366217.png" group-title="TV THAILAND",national-geographic
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/national-geographic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344362.png" group-title="TV THAILAND",nickjr
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/nickjr/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344306.png" group-title="TV THAILAND",nickelodeon
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/nickelodeon/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1718690264.png" group-title="TV THAILAND",rock-action
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/rock-action/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1718690283.png" group-title="TV THAILAND",rock-entertainment
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/rock-entertainment/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1731890461.png" group-title="TV THAILAND",rt-documentary
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/rt-documentary/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1741273735.png" group-title="TV THAILAND",rush-stories
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/rush-stories/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1712888821.png" group-title="TV THAILAND",skysportsf1
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/skysportsf1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663979709.png" group-title="TV THAILAND",sporttv1
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/sporttv1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663979801.png" group-title="TV THAILAND",sporttv2
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/sporttv2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663980327.png" group-title="TV THAILAND",sporttv3
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/sporttv3/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664041351.png" group-title="TV THAILAND",sporttv4
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/sporttv4/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664125991.png" group-title="TV THAILAND",sporttv5
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/sporttv5/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696038.png" group-title="TV THAILAND",tlc
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/tlc/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1742428803.png" group-title="TV THAILAND",thainess
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/thainess/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719206155.png" group-title="TV THAILAND",truex-zyte
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/truex-zyte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1753040687.png" group-title="TV THAILAND",w-sport
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/w-sport/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1704039063.png" group-title="TV THAILAND",cartoonito
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/cartoonito/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1713282303.png" group-title="TV THAILAND",nicktoons
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/nicktoons/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664202734.png" group-title="TV THAILAND",sportdigital
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/sportdigital/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1726690688.png" group-title="TV THAILAND",bein1_617
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/bein1_617/chunks.m3u8
 
 
 
@@ -414,7 +267,78 @@ https://edge-2.m-fixer.net:8092/stream/ais/aisplay95/master.m3u8
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://edge-2.m-fixer.net:8092/stream/ais/aisplay96/master.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/106.png" group-title="INWSport",Hbofamily
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://edge-2.m-fixer.net:8092/stream/ais/hbofamily/master.m3u8
+#EXTINF:-1 tvg-logo="https://aya-f.play-rfcdn.ais.th/iptvepg/images/poster/20250716134739006530.png?xsize=108&ysize=108" group-title="INWSport",Hbohits
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://edge-2.m-fixer.net:8092/stream/ais/hbohits/master.m3u8
+#EXTINF:-1 tvg-logo="https://aya-f.play-rfcdn.ais.th/iptvepg/images/poster/20250716134720006707.png?xsize=108&ysize=108" group-title="INWSport",Hbosignature
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://edge-2.m-fixer.net:8092/stream/ais/hbosignature /master.m3u8
+#EXTINF:-1 tvg-logo="https://aya-f.play-rfcdn.ais.th/iptvepg/images/poster/20250716134649006712.png?xsize=108&ysize=108" group-title="INWSport",Cinemax
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://edge-2.m-fixer.net:8092/stream/ais/rockaction/master.m3u8
+#EXTINF:-1 tvg-logo="https://aya-f.play-rfcdn.ais.th/iptvepg/images/poster/20250716135107006734.png?xsize=108&ysize=108" group-title="INWSport",Rockaction
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://edge-2.m-fixer.net:8092/stream/ais/rockaction/master.m3u8
+#EXTINF:-1 tvg-logo="https://aya-f.play-rfcdn.ais.th/iptvepg/images/poster/20250716135113006742.png?xsize=108&ysize=108" group-title="INWSport",Rockentertainment
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://edge-2.m-fixer.net:8092/stream/ais/rockentertainment/master.m3u8
+#EXTINF:-1 tvg-logo="https://aya-f.play-rfcdn.ais.th/iptvepg/images/poster/20250716135043006586.png?xsize=108&ysize=108" group-title="INWSport",Mono29plus
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://edge-2.m-fixer.net:8092/stream/ais/mono29plus/master.m3u8
+#EXTINF:-1 tvg-logo="https://aya-f.play-rfcdn.ais.th/iptvepg/images/poster/20250716134635006505.png?xsize=108&ysize=108" group-title="INWSport",Asianhits
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://edge-2.m-fixer.net:8092/stream/ais/asianhits/master.m3u8
+#EXTINF:-1 tvg-logo="https://aya-f.play-rfcdn.ais.th/iptvepg/images/poster/20250716135125006722.png?xsize=108&ysize=108" group-title="INWSport",Warnertv
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://edge-2.m-fixer.net:8092/stream/ais/warnertv/master.m3u8
+#EXTINF:-1 tvg-logo="https://aya-f.play-rfcdn.ais.th/iptvepg/images/poster/20250716134513006646.png" group-title="INWSport",Cartoonnetwork
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://edge-2.m-fixer.net:8092/stream/ais/cartoonnetwork/master.m3u8
+#EXTINF:-1 tvg-logo="https://aya-f.play-rfcdn.ais.th/iptvepg/images/poster/20250716134558006743.png" group-title="INWSport",Nickelodeon
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://edge-2.m-fixer.net:8092/stream/ais/nickelodeon/master.m3u8
+#EXTINF:-1 tvg-logo="https://aya-f.play-rfcdn.ais.th/iptvepg/images/poster/20250716134614006738.png" group-title="INWSport",Nickjr
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://edge-2.m-fixer.net:8092/stream/ais/nickjr/master.m3u8
+#EXTINF:-1 tvg-logo="https://aya-f.play-rfcdn.ais.th/iptvepg/images/poster/20260401133808044641.png" group-title="INWSport",Mangomojito
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://edge-2.m-fixer.net:8092/stream/ais/mangomojito/master.m3u8
+#EXTINF:-1 tvg-logo="https://aya-f.play-rfcdn.ais.th/iptvepg/images/poster/20250814101231019501.png" group-title="INWSport",Mutv
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://edge-2.m-fixer.net:8092/stream/ais/bydsport1/master.m3u8
+#EXTINF:-1 tvg-logo="https://aya-f.play-rfcdn.ais.th/iptvepg/images/poster/20250814102145019502.png" group-title="INWSport",Realmadridtv
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://edge-2.m-fixer.net:8092/stream/ais/realmadridtv/master.m3u8
+#EXTINF:-1 tvg-logo="https://aya-f.play-rfcdn.ais.th/iptvepg/images/poster/20250717161338006023.png" group-title="INWSport",Eurosport
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://edge-2.m-fixer.net:8092/stream/ais/eurosport/master.m3u8
+#EXTINF:-1 tvg-logo="https://aya-f.play-rfcdn.ais.th/iptvepg/images/poster/20260127140505037927.png" group-title="INWSport",Premiersport
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://edge-2.m-fixer.net:8092/stream/ais/premiersport/master.m3u8
+#EXTINF:-1 tvg-logo="https://aya-f.play-rfcdn.ais.th/iptvepg/images/poster/20250716135206006737.png" group-title="INWSport",Discovery
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://edge-2.m-fixer.net:8092/stream/ais/discovery/master.m3u8
 
 
 
