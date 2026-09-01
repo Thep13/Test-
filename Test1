@@ -406,7 +406,7 @@ https://edge-2.m-fixer.net:8092/stream/monomax/monomax8/master.m3u8
 https://edge-2.m-fixer.net:8092/stream/monomax/monomax9/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="Monomax",Monomaxlfctv
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://edge-2.m-fixer.net:8092/stream/monomax/monomax1/master.m3u8
+https://edge-2.m-fixer.net:8092/stream/monomax/lfctv/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="Monomax",Monomaxsportstv
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://edge-2.m-fixer.net:8092/stream/monomax/monomaxsportstv/master.m3u8
