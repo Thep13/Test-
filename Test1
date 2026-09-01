@@ -366,7 +366,7 @@ https://edge-2.m-fixer.net:8092/stream/inw/trueseries/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png" group-title="INWSport",Trueaxn
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://edge-2.m-fixer.net:8092/stream/inw/ballthai1/master.m3u8
+https://edge-2.m-fixer.net:8092/stream/inw/axn/master.m3u8
 #EXTINF:-1 tvg-logo="https://console.celestialtiger.com/images/upload/33c6ce3020b60990be738fdbedc3b8a40980763c.png" group-title="INWSport",Trueccm
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://edge-2.m-fixer.net:8092/stream/inw/ccm/master.m3u8
