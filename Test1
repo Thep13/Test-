@@ -340,7 +340,33 @@ https://edge-2.m-fixer.net:8092/stream/ais/premiersport/master.m3u8
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://edge-2.m-fixer.net:8092/stream/ais/discovery/master.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp" group-title="INWSport",Truefilm1
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://edge-2.m-fixer.net:8092/stream/inw/truefilm1/master.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="INWSport",Truefilm2
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://edge-2.m-fixer.net:8092/stream/inw/truefilm2/master.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="INWSport",Truemoviehit
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://edge-2.m-fixer.net:8092/stream/inw/truemoviehits/master.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="INWSport",Trueasianmore
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://edge-2.m-fixer.net:8092/stream/inw/trueasianmore/master.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp" group-title="INWSport",Truethaifilm
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://edge-2.m-fixer.net:8092/stream/inw/truethaifilm/master.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="INWSport",Truefilmasia
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://edge-2.m-fixer.net:8092/stream/inw/truefilmasia/master.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp" group-title="INWSport",Truetennis
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://edge-2.m-fixer.net:8092/stream/inw/truetennis/master.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="INWSport",trueexploresci
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://edge-2.m-fixer.net:8092/stream/inw/trueexploresci/master.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/01/201c6dd0-d79f-11ee-afcd-214a368edc48_webp_original.webp" group-title="INWSport",Trueseries
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://edge-2.m-fixer.net:8092/stream/inw/trueseries/master.m3u8
 
 
 
