@@ -692,14 +692,8 @@ https://hls.iptv-th.workers.dev/live/1205/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/a3cd307b33cf.webp" group-title="iPTVplus",SkySportsMainEvent
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://github.com/
-https://raw.githubusercontent.com/AusawinNuang/SP11769/refs/heads/main/SkySportsMainEvent.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/3cbc2adaad1e.png" group-title="iPTVplus",skysportIT F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://github.com/
-https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/skysportITf100.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/3cbc2adaad1e.png" group-title="iPTVplus",skysportIT moto GP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://github.com/
