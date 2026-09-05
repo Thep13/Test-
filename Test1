@@ -463,24 +463,10 @@ https://ipc-vr5-smos.shop/maxsport8/tracks-v1a1/mono.m3u8
 https://ealivefotex.com/maxsport9/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/1161264391/vector/live-show.jpg" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",Madooball 1
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/82079/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/1161264391/vector/live-show.jpg" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",Madooball 2
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/81741/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/1161264391/vector/live-show.jpg" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",Madooball 3
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/82044/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/1161264391/vector/live-show.jpg" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",Madooball 4
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/81912/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/1161264391/vector/live-show.jpg" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",Madooball 5
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/81779/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/1161264391/vector/live-show.jpg" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",Madooball 6
-#EXTVLCOPT:http-referrer=https://madoball.com/
-https://godlivetv.io/madoball/81639/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7obqM1s2JIRr_S-n73eMNDDNhNpM30elgzySzFstHgIIXmEN0S-HxrMpaKzWqqOjHBuOOwbvOQ=s160-c-k-c0x00ffffff-no-rj" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",aMAX 1
 #EXTVLCOPT:http-referrer=https://warpsport24.online/
 https://ipc-vr5-smos.shop/maxsport1/index.m3u8
@@ -503,6 +489,26 @@ https://ealivefotex.com/maxsport6/index.m3u8
 #EXTVLCOPT:http-referrer=https://warpsport24.online/
 https://silentpacketrelay.xyz/maxsport7/index.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/1161264391/vector/live-show.jpg" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",Madooball 1
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/82079/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/1161264391/vector/live-show.jpg" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",Madooball 2
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/81741/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/1161264391/vector/live-show.jpg" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",Madooball 3
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/82044/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/1161264391/vector/live-show.jpg" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",Madooball 4
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/81912/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/1161264391/vector/live-show.jpg" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",Madooball 5
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/81779/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/1161264391/vector/live-show.jpg" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",Madooball 6
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/81639/playlist.m3u8
 
 
 
