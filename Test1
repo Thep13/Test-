@@ -423,22 +423,8 @@ https://edge-2.m-fixer.net:8092/stream/monomax/alure/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax01
-https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax02
-https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax03
-https://hls.iptv-th.workers.dev/live/3910/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax04
-https://hls.iptv-th.workers.dev/live/3909/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax05
-https://hls.iptv-th.workers.dev/live/3908/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax06
-https://hls.iptv-th.workers.dev/live/3907/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax07
-https://hls.iptv-th.workers.dev/live/3906/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax08
-https://hls.iptv-th.workers.dev/live/3905/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAXSTREAM01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://full24th.com/
@@ -475,6 +461,31 @@ https://ipc-vr5-smos.shop/maxsport8/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://24goals.com/
 https://ealivefotex.com/maxsport9/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax01
+https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax02
+https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax03
+https://hls.iptv-th.workers.dev/live/3910/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax04
+https://hls.iptv-th.workers.dev/live/3909/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax05
+https://hls.iptv-th.workers.dev/live/3908/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax06
+https://hls.iptv-th.workers.dev/live/3907/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax07
+https://hls.iptv-th.workers.dev/live/3906/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax08
+https://hls.iptv-th.workers.dev/live/3905/playlist.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4680.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 1 HD PL
 #EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
