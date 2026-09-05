@@ -422,55 +422,6 @@ https://edge-2.m-fixer.net:8092/stream/monomax/alure/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://live.mee77player.com/
-https://live.mee88player.com/live/82079.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://live.mee77player.com/
-https://live.mee88player.com/live/82044.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://live.mee77player.com/
-https://live.mee88player.com/live/1491.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://dooballland.com/
-https://cdn1.amazaa.live/dbl/monomax-sports1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX02
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://dooballland.com/
-https://cdn1.amazaa.live/dbl/monomax-sports2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX03
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://dooballland.com/
-https://cdn1.amazaa.live/dbl/monomax-sports3/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX04
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://dooballland.com/
-https://cdn1.amazaa.live/dbl/monomax-sports4/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://dooballland.com/
-https://cdn1.amazaa.live/dbl/monomax-sports5/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://dooballland.com/
-https://cdn1.amazaa.live/dbl/monomax-sports6/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://dooballland.com/
-https://cdn1.amazaa.live/dbl/monomax-sports7/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://dooballland.com/
-https://cdn1.amazaa.live/dbl/monomax-sports8/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://dooballland.com/
-https://cdn1.amazaa.live/dbl/monomax-sports9/chunks.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MonoMax01
 https://hls.iptv-th.workers.dev/live/3912/playlist.m3u8
