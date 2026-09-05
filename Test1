@@ -475,6 +475,36 @@ https://ipc-vr5-smos.shop/maxsport8/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://24goals.com/
 https://ealivefotex.com/maxsport9/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4680.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 1 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_1HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4681.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 2 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_2HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4682.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 3 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_3HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4683.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 4 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_4HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4684.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 5 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_5HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4685.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 6 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_6HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4686.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 7 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_7HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4687.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 8 HD PL
+#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
+https://live.livedoomovies.com:4433/live/Monomax_PL_8HD/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MonomaxSportsTV.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://live.mee77player.com/
@@ -523,30 +553,7 @@ https://cdn1.amazaa.live/dbl/monomax-sports8/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://cdn1.amazaa.live/dbl/monomax-sports9/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4680.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 1 HD PL
-#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
-https://live.livedoomovies.com:4433/live/Monomax_PL_1HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4681.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 2 HD PL
-#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
-https://live.livedoomovies.com:4433/live/Monomax_PL_2HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4682.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 3 HD PL
-#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
-https://live.livedoomovies.com:4433/live/Monomax_PL_3HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4683.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 4 HD PL
-#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
-https://live.livedoomovies.com:4433/live/Monomax_PL_4HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4684.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 5 HD PL
-#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
-https://live.livedoomovies.com:4433/live/Monomax_PL_5HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4685.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 6 HD PL
-#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
-https://live.livedoomovies.com:4433/live/Monomax_PL_6HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4686.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 7 HD PL
-#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
-https://live.livedoomovies.com:4433/live/Monomax_PL_7HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/monomax/tv-station--4687.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAX 8 HD PL
-#EXTVLCOPT:http-referrer=https://live.livedoomovies.com/
-https://live.livedoomovies.com:4433/live/Monomax_PL_8HD/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.svleague.jp/ext/userfiles_2018/topics/news/2024-25/その他/VW_HorizontalStack_Green_RGB.png" group-title="🏐Volleyball🌍",🏐VBTV 1
