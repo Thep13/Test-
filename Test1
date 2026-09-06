@@ -411,7 +411,31 @@ https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/max3.m3u8
 https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/max4.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp" group-title="Ultra iptv",Truefilm1
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/film1.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="Ultra iptv",Truefilm2
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/film2.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="Ultra iptv",Truemoviehit
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/hits.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/01/201c6dd0-d79f-11ee-afcd-214a368edc48_webp_original.webp" group-title="Ultra iptv",Trueseries
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/series.m3u8
+#EXTINF:-1 tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png" group-title="Ultra iptv",Trueaxn
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/axn.m3u8
+#EXTINF:-1 tvg-logo="https://console.celestialtiger.com/images/upload/33c6ce3020b60990be738fdbedc3b8a40980763c.png" group-title="Ultra iptv",Trueccm
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/ccm.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="Ultra iptv",Truehistory
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/his.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/b6taWX6IAqHpIFdXbppf1AQr2C7RX1V20240418210226Discovery.jpg" group-title="Ultra iptv",Discovery Channel
+https://hls.iptv-th.workers.dev/live/4031/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" group-title="Ultra iptv",Xzyte
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/xyzte.m3u8
 
 
 
