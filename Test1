@@ -780,27 +780,10 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSFyqV9VZUL-Z2mbhQMAz0M7J25D5m7KElW86FROX7PQ&s=10" group-title="SONY & STAR",SONY TEN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1gnQndipVVzLEAlN4Z9kZXM-9AkfJujhVkjUug_Xqg&s=10" group-title="SONY & STAR",SONY TEN 2
-http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNVTrEegxS7G9uvj0Q1mD3x5MC21ueSFzJYfBfrvZoA&s=10" group-title="SONY & STAR",SONY TEN 3
-http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOg7XJgkbcwv-1olJdGic-4dSbhQbBVELFJsEhKXgXIg&s=10" group-title="SONY & STAR",SONY TEN 4
-http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1D:53:3F
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMintGID2yDIo_AL-211n-4Pt30sG8R2_1X0lOsdbAig&s" group-title="SONY & STAR",STAR SPORTS 1
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Starsport1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMintGID2yDIo_AL-211n-4Pt30sG8R2_1X0lOsdbAig&s" group-title="SONY & STAR",STAR SPORTS 2
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Starsport2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMintGID2yDIo_AL-211n-4Pt30sG8R2_1X0lOsdbAig&s" group-title="SONY & STAR",STAR SPORTS 3
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Starsport3.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMintGID2yDIo_AL-211n-4Pt30sG8R2_1X0lOsdbAig&s" group-title="SONY & STAR",STAR SPORTS SELECT 1
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/StarsportSelect1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMintGID2yDIo_AL-211n-4Pt30sG8R2_1X0lOsdbAig&s" group-title="SONY & STAR",STAR SPORTS SELECT 2
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/StarsportSelect2.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Y4NKQPq_ryMkGWZM5TmHHxjhwOD46NZsAoHe03Hb8g&s=10" group-title="PRIMA & DIGI",DIGI SPORT 2 (Ga 24 Jam)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://kuk1.modprimus1.cfd/000/
