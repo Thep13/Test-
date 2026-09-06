@@ -363,6 +363,62 @@ https://cdn1.amazaa.live/dbl/monomax-sports9/chunks.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/veVkQGAOh0YHwrgJ2p3cVluTj1C9GjK20240418192933TrueSport1.jpg" group-title="Ultra iptv",True Sport 1
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/tsp1.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/00joOTu8g0RNc1kDJCXIxV3MtNHv9jw20240418193002TrueSport3.jpg" group-title="Ultra iptv",True Sport 3
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/tsp3.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/AxVXCaKjdq7IULfTaywWPgE44BtSlsz20240418193030TrueSport5.jpg" group-title="Ultra iptv",True Sport 5
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/tsp5.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/F4ROMKNcVaz2Nx2kxm3ziJOTUUHcG6X20240418193050TrueSport7.jpg" group-title="Ultra iptv",True Sport 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/Tsp7.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/PaIhSj5IgqmG9bpEFTzq91kuqT1QNOx20240418192653Bein3.jpg" group-title="Ultra iptv",Bein Sport 3
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/bein3.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/ea3nZvfzvwSGAhBjKb7ZHIE8QM06mYk20240418193126SPOTV.jpg" group-title="Ultra iptv",SportV
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/spotv1.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/8W2xlouyo3iQ1cj99jO6PORjFcbvyG920240418193135SPOTV2.jpg" group-title="Ultra iptv",SportV 2
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/spotv2.m3u8
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/2YRol5zh9fRMkO6DktRIKnGg6GKMJvw20240418192812Glof.jpg" group-title="Ultra iptv",Golf Channel HD
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/golf.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="Ultra iptv",Aisplay1
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/ais1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="Ultra iptv",Aisplay2
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/ais2.m3u8
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20251001131957025352.png" group-title="Ultra iptv",Play Sports 55
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/nba.m3u8
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20251226191646034596.png" group-title="Ultra iptv",Play Sports 66
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/ais4.m3u8
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20260106094208034571.png" group-title="Ultra iptv",Play Sports 71
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/atp.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="Ultra iptv",MonoMax01
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/max1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="Ultra iptv",MonoMax02
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/max2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="Ultra iptv",MonoMax03
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/max3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="Ultra iptv",MonoMax04
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/max4.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/veVkQGAOh0YHwrgJ2p3cVluTj1C9GjK20240418192933TrueSport1.jpg" group-title="IPTV (ดู​ได้บางเวลา)​",True Sport 1
 https://hls.iptv-th.workers.dev/live/1193/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/EDBxSp3h7WtfSIU33ZGg3yP1cnAdE5Y20240418192951TrueSport2.jpg" group-title="IPTV (ดู​ได้บางเวลา)​",True Sport 2
