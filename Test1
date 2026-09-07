@@ -165,32 +165,29 @@ https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/2892.jpg" group-title="INWSport",True Sports🏌️
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/veVkQGAOh0YHwrgJ2p3cVluTj1C9GjK20240418192933TrueSport1.jpg" group-title="INWSport",True Sports🏌️
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://edge-2.m-fixer.net:8092/stream/inw/truesport1/master.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/2891.jpg" group-title="INWSport",True Sports 2
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/EDBxSp3h7WtfSIU33ZGg3yP1cnAdE5Y20240418192951TrueSport2.jpg" group-title="INWSport",True Sports 2
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://edge-2.m-fixer.net:8092/stream/inw/truesport2/master.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/2890.jpg" group-title="INWSport",True Sports 3
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/00joOTu8g0RNc1kDJCXIxV3MtNHv9jw20240418193002TrueSport3.jpg" group-title="INWSport",True Sports 3
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://edge-2.m-fixer.net:8092/stream/inw/truesport3/master.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/2889.jpg" group-title="INWSport",True Sports 4
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/ir7eXcali6fPYAvB9fb7nmMxcZaLYNb20240418193017TrueSport4.jpg" group-title="INWSport",True Sports 4
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://edge-2.m-fixer.net:8092/stream/inw/truesport4/master.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/2888.jpg" group-title="INWSport",True Sports 5
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/AxVXCaKjdq7IULfTaywWPgE44BtSlsz20240418193030TrueSport5.jpg" group-title="INWSport",True Sports 5
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://edge-2.m-fixer.net:8092/stream/inw/truesport5/master.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/2829.jpg" group-title="INWSport",True Sports 7
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/F4ROMKNcVaz2Nx2kxm3ziJOTUUHcG6X20240418193050TrueSport7.jpg" group-title="INWSport",True Sports 7
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://edge-2.m-fixer.net:8092/stream/inw/truesport7/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/2023.jpg" group-title="INWSport",Spotv2
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/8W2xlouyo3iQ1cj99jO6PORjFcbvyG920240418193135SPOTV2.jpg" group-title="INWSport",Spotv2
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://edge-2.m-fixer.net:8092/stream/truevisions/motogp1/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="INWSport",Aisplay90
@@ -209,7 +206,7 @@ https://edge-2.m-fixer.net:8092/stream/ais/aisplay55/master.m3u8
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://edge-2.m-fixer.net:8092/stream/ais/aisplay57/master.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1440.jpg" group-title="INWSport",Play Sports 58
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="INWSport",Play Sports 58
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://edge-2.m-fixer.net:8092/stream/ais/aisplay58/master.m3u8
@@ -217,11 +214,11 @@ https://edge-2.m-fixer.net:8092/stream/ais/aisplay58/master.m3u8
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://edge-2.m-fixer.net:8092/stream/ais/aisplay61/master.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1481.jpg" group-title="INWSport",Play Sports 62
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="INWSport",Play Sports 62
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://edge-2.m-fixer.net:8092/stream/ais/aisplay62/master.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1438.jpg" group-title="INWSport",Play Sports 64
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="INWSport",Play Sports 64
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://edge-2.m-fixer.net:8092/stream/ais/aisplay64/master.m3u8
@@ -249,7 +246,7 @@ https://edge-2.m-fixer.net:8092/stream/ais/aisplay73/master.m3u8
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://edge-2.m-fixer.net:8092/stream/ais/aisplay72/master.m3u8
-#EXTINF:-1 tvg-logo="https://madoball.com/upload/1432.jpg" group-title="INWSport",Play Sports 75
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="INWSport",Play Sports 75
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://edge-2.m-fixer.net:8092/stream/ais/aisplay75/master.m3u8
@@ -265,7 +262,6 @@ https://edge-2.m-fixer.net:8092/stream/ais/aisplay95/master.m3u8
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://edge-2.m-fixer.net:8092/stream/ais/aisplay96/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/106.png" group-title="INWSport",Hbofamily
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://atmflix.live/
@@ -338,7 +334,6 @@ https://edge-2.m-fixer.net:8092/stream/ais/premiersport/master.m3u8
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://edge-2.m-fixer.net:8092/stream/ais/discovery/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp" group-title="INWSport",Truefilm1
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://edge-2.m-fixer.net:8092/stream/inw/truefilm1/master.m3u8
@@ -366,7 +361,6 @@ https://edge-2.m-fixer.net:8092/stream/inw/trueexploresci/master.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/01/201c6dd0-d79f-11ee-afcd-214a368edc48_webp_original.webp" group-title="INWSport",Trueseries
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://edge-2.m-fixer.net:8092/stream/inw/trueseries/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png" group-title="INWSport",Trueaxn
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://edge-2.m-fixer.net:8092/stream/inw/axn/master.m3u8
@@ -376,8 +370,6 @@ https://edge-2.m-fixer.net:8092/stream/inw/ccm/master.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="INWSport",Truehistory
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://edge-2.m-fixer.net:8092/stream/inw/history/master.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="Monomax",Monomax1
