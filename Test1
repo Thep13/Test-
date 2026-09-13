@@ -415,6 +415,29 @@ https://edge-2.m-fixer.net:8092/stream/monomax/alure/master.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="Monomax",MonoMax01
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/max1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="Monomax",MonoMax02
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/max2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="Monomax",MonoMax03
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/max3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="Monomax",MonoMax04
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/max4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="Monomax",MonoMax05
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/max5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="Monomax",MonoMax06
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/max6.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="Monomax",MonoMax07
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/max7.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/monomax.png" group-title="Monomax",MonoMax08
+https://raw.githubusercontent.com/Thep13/sportworld/refs/heads/main/max8.m3u8
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/MAXSLOGO.png" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",MAXSTREAM01
