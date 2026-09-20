@@ -1000,22 +1000,10 @@ https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/Vo
 
 
 
-#EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="KBTRTV",DGS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kuk1.modprimus1.cfd/000/
-https://kuk1.modprimus1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="KBTRTV",DGS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
-https://kudos111.terranovax1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="KBTRTV",DGS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://pulse1.zalmora1.cfd/000/
-https://pulse1.zalmora1.cfd/kuk3/usergendxt1v8klq6rnd.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="KBTRTV",DGS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://pulse1.zalmora1.cfd/000/
-https://pulse1.zalmora1.cfd/kuk4/usergendlg1ks0t2n.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://shorter.me/sYn-B" group-title="KBTRTV",BeIN Sports AU 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
