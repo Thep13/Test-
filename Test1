@@ -432,14 +432,12 @@ https://edge-2.m-fixer.net:8092/stream/monomax/alure/master.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://shorter.me/5V7pE" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",19:00 WIB Ratchaburi vs Hồ Chí Minh
-https://live3.dyrur1.com/live/73085404_e4e80f0f5791e167eed324305bbd92ae_1080p.m3u8?auth_key=1791388297-0-0-afa69aa070fbea7f7095bfc2699c2ae6
-#EXTINF:-1 tvg-logo="https://shorter.me/5V7pE" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",19:00 WIB Buriram United vs Borneo
-https://live2.dyrur1.com/live/72597048_1b9125b1020157a63cc559a18790a23b_1080p.m3u8?auth_key=1791388297-0-0-a90137b170b771226a80f25ece4c1362
-
-
+#EXTINF:-1 tvg-logo="https://shorter.me/dbndV" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",WIB CLASH OF CLANS Arctic Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/dbndV" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",WIB CLASH OF CLANS Arctic Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/dbndV" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",WIB CLASH OF CLANS Arctic Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
 
 
 
