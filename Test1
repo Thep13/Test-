@@ -434,12 +434,10 @@ https://edge-2.m-fixer.net:8092/stream/monomax/alure/master.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://shorter.me/yKOXu" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",FIFA
-https://pull.streamviewk7x.click/livesp/sd-6MxjJn9qRpH5VmLoog_hd.m3u8?txSecret=26b8e5673c133fe00c34082eeb00aeee&txTime=6AC4F0D0
-
-
+#EXTINF:-1 tvg-logo="https://shorter.me/5V7pE" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",19:00 WIB Ratchaburi vs Hồ Chí Minh
+https://live3.dyrur1.com/live/73085404_e4e80f0f5791e167eed324305bbd92ae_1080p.m3u8?auth_key=1791388297-0-0-afa69aa070fbea7f7095bfc2699c2ae6
+#EXTINF:-1 tvg-logo="https://shorter.me/5V7pE" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",19:00 WIB Buriram United vs Borneo
+https://live2.dyrur1.com/live/72597048_1b9125b1020157a63cc559a18790a23b_1080p.m3u8?auth_key=1791388297-0-0-a90137b170b771226a80f25ece4c1362
 
 
 
