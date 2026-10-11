@@ -101,6 +101,13 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GZhuLxL.png" group-title="TV THAILAND",PPTV HD 36
+https://live-us1.thaimomo.com/live-as/chpptv-1/chunklist_w303375461.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jbMqrJUKJ0-7_J8JQCtOj4VFDo__7LlLiw&usqp=CAU" group-title="TV THAILAND",สำรวจโลก(ไทย)
+https://cdn7.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="TV THAILAND",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aCFpuzW.png" group-title="TV THAILAND",TV Muslim Thailand
 https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z9vxti4.png" group-title="TV THAILAND",Dopa Channel
@@ -434,11 +441,6 @@ https://edge-2.m-fixer.net:8092/stream/monomax/alure/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://shorter.me/dbndV" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",WIB CLASH OF CLANS Arctic Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/dbndV" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",WIB CLASH OF CLANS Arctic Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/dbndV" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",WIB CLASH OF CLANS Arctic Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4340227428242061_AiSD.m3u8?txSecret=df8c37cef65f0f8155d7251dd55a419b&txTime=6AC9B840
-
 
 
 
