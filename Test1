@@ -437,12 +437,16 @@ https://edge-2.m-fixer.net:8092/stream/monomax/alure/master.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://shorter.me/dbndV" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",WIB CLASH OF CLANS Arctic Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://shorter.me/GoGf3" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",17:00 WIB GS Caltex W VS Expressway Co W
+https://livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0005/mtuzlqcrry2q9mt3sgi7av1byb78muisakwd/p77ne1un6rknxt0rolrnlkqb78muisafub_hls_playlist.m3u8?hdnts=st=1791799992~exp=1791861202~acl=*/mtuzlqcrry2q9mt3sgi7av1byb78muisakwd/*~hmac=51948743ca81dff9284cd7e9df7c0d4f17ca88a03389f988d1546ece53bc40bd&vp=47DEQpj8HBSa-_TIKgc8JzIZ-OGi_6-I5_uDpg
+#EXTINF:-1 tvg-logo="https://shorter.me/GoGf3" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",17:00 WIB GS Caltex W VS Expressway Co W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel33.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/GXv3A" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",22:00 WIB Ziraat Bankkart vs Galatasaray HDI Sigorta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel33.m3u8
 
 
 
