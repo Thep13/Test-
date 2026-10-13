@@ -455,6 +455,104 @@ https://live2.jorvakstreamcache.com/live/channel33.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/refs/heads/main/sport/bein1.png" group-title="⚽Dooballland",bein 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/bein1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/refs/heads/main/sport/bein2.png" group-title="⚽Dooballland",bein 2
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/bein2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/refs/heads/main/sport/bein3.png" group-title="⚽Dooballland",bein 3
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/bein3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/refs/heads/main/sport/bein4.png" group-title="⚽Dooballland",bein 4
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/bein4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/refs/heads/main/sport/bein5.png" group-title="⚽Dooballland",bein 5
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/bein5/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/refs/heads/main/sport/bein6.png" group-title="⚽Dooballland",bein 6
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/bein6/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://ball67.com/assets/channels-logo/truepremier3.png" group-title="⚽Dooballland",TruePremier3
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/tpf3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://ball67.com/assets/channels-logo/truepremier4.png" group-title="⚽Dooballland",TruePremier4
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/tpf4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://ball67.com/assets/channels-logo/truepremier4.png" group-title="⚽Dooballland",TruePremier5
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/tpf5/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV59/Pic/refs/heads/main/TrueSport1.jpg" group-title="⚽Dooballland",TrueSport 1
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/tsp1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV59/Pic/refs/heads/main/TrueSport2.png" group-title="⚽Dooballland",TrueSport 2
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/tsp2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV59/Pic/refs/heads/main/TrueSport3.jpg" group-title="⚽Dooballland",TrueSport 3
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/tsp3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV59/Pic/refs/heads/main/TrueSport5.jpg" group-title="⚽Dooballland",TrueSport 5
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/tsp5/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV59/Pic/refs/heads/main/TrueSport7.jpg" group-title="⚽Dooballland",TrueSport 7
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/tsp7/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7obqM1s2JIRr_S-n73eMNDDNhNpM30elgzySzFstHgIIXmEN0S-HxrMpaKzWqqOjHBuOOwbvOQ=s160-c-k-c0x00ffffff-no-rj" group-title="⚽Dooballland",aMAX 1
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/monomax-sports1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7obqM1s2JIRr_S-n73eMNDDNhNpM30elgzySzFstHgIIXmEN0S-HxrMpaKzWqqOjHBuOOwbvOQ=s160-c-k-c0x00ffffff-no-rj" group-title="⚽Dooballland",aMAX 2
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/monomax-sports2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7obqM1s2JIRr_S-n73eMNDDNhNpM30elgzySzFstHgIIXmEN0S-HxrMpaKzWqqOjHBuOOwbvOQ=s160-c-k-c0x00ffffff-no-rj" group-title="⚽Dooballland",aMAX 3
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/monomax-sports3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7obqM1s2JIRr_S-n73eMNDDNhNpM30elgzySzFstHgIIXmEN0S-HxrMpaKzWqqOjHBuOOwbvOQ=s160-c-k-c0x00ffffff-no-rj" group-title="⚽Dooballland",aMAX 4
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/monomax-sports4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7obqM1s2JIRr_S-n73eMNDDNhNpM30elgzySzFstHgIIXmEN0S-HxrMpaKzWqqOjHBuOOwbvOQ=s160-c-k-c0x00ffffff-no-rj" group-title="⚽Dooballland",aMAX 5
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/monomax-sports5/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7obqM1s2JIRr_S-n73eMNDDNhNpM30elgzySzFstHgIIXmEN0S-HxrMpaKzWqqOjHBuOOwbvOQ=s160-c-k-c0x00ffffff-no-rj" group-title="⚽Dooballland",aMAX 6
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/monomax-sports6/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7obqM1s2JIRr_S-n73eMNDDNhNpM30elgzySzFstHgIIXmEN0S-HxrMpaKzWqqOjHBuOOwbvOQ=s160-c-k-c0x00ffffff-no-rj" group-title="⚽Dooballland",aMAX 7
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/monomax-sports7/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/4/4f/2025_Thai_League_1_logo.png" group-title="⚽Dooballland",Th1
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/playsportsfootball1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/4/4f/2025_Thai_League_1_logo.png" group-title="⚽Dooballland",Th2
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/playsportsfootball2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/4/4f/2025_Thai_League_1_logo.png" group-title="⚽Dooballland",Th3
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/playsportsfootball3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/4/4f/2025_Thai_League_1_logo.png" group-title="⚽Dooballland",Th4
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/playsportsfootball4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.imgx02.xyz/assets/img/ch_logo/AISplay-sport5.jpg" group-title="⚽Dooballland",Th5
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/playsportsfootball5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/2025_Thai_League_2_logo.png" group-title="⚽Dooballland",Th6
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/playsportsfootball6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/2025_Thai_League_2_logo.png" group-title="⚽Dooballland",Th7
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/playsportsfootball7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/2025_Thai_League_2_logo.png" group-title="⚽Dooballland",Th8
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/playsportsfootball8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/2025_Thai_League_2_logo.png" group-title="⚽Dooballland",Th9
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/playsportsfootball9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.imgx02.xyz/assets/img/ch_logo/AISplay-sport10.jpg" group-title="⚽Dooballland",Th10
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/playsportsfootball10/playlist.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV59/Pic/refs/heads/main/TrueSport1.jpg" group-title="Iptv59",SportHD 1
