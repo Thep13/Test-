@@ -375,22 +375,37 @@ https://edge-2.m-fixer.net:8092/stream/monomax/rush/master.m3u8
 https://edge-2.m-fixer.net:8092/stream/monomax/alure/master.m3u8
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://shorter.me/-zy9I" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",WIB VICTOR Denmark Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
 #EXTINF:-1 tvg-logo="https://shorter.me/-zy9I" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",WIB VICTOR Denmark Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/-zy9I" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",WIB VICTOR Denmark Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344746942841061_AiSD.m3u8?txSecret=fc75eafd9b9f2e3a644ff8a7c4394e18&txTime=6AD1A140
 #EXTINF:-1 tvg-logo="https://shorter.me/GoGf3" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",1
-https://ex-nlive-streaming.navercdn.com/chzzk/lip2_kr/cflexnmss2u0005/yfg5ejdivjgx1ff6q2fmbsati5xkxfpg5cfe/zmja5gbrqinziezrnxzos3z5xkxfpg5a20_hls_playlist.m3u8?hdnts=st=1791885001~exp=1791946211~acl=*/yfg5ejdivjgx1ff6q2fmbsati5xkxfpg5cfe/*~hmac=f8515fbb428752f5c8f11ae4c9ed14c7b3de604602486fadd43408da1b893b6a&vp=47DEQpj8HBSa-_TIKgc8JzIZ-OGi_6-I5_uDpg
-#EXTINF:-1 tvg-logo="https://shorter.me/GoGf3" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel33.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/GXv3A" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",22:00 WIB Ziraat Bankkart vs Galatasaray HDI Sigorta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel33.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",DGS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kuruk1.xn--okq6e.shop/000/
+https://kuruk1.xn--okq6e.shop/kuk1/usergendx419snx12kdgwqrnd.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",DGS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kuruk1.xn--okq6e.shop/000/
+https://kuruk1.xn--okq6e.shop/kuk2/usergendx0ul1ltsDx9lgcdwqrnd.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",DGS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
+https://pulse1.sanseny001.shop/kuk3/usergendxt1v7slq2rnd.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",DGS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
+https://pulse1.sanseny001.shop/kuk4/usergendk9g3ks42t3n.m3u8
 
 
 
