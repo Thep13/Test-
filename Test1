@@ -503,6 +503,16 @@ https://cdn1.amazaa.live/dbl/playsportsfootball9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.imgx02.xyz/assets/img/ch_logo/AISplay-sport10.jpg" group-title="⚽Dooballland",Th10
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://cdn1.amazaa.live/dbl/playsportsfootball10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.onefc.com/wp-content/uploads/2026/05/ONE-TIC-FullColor-darkBG-1-300x150.png" group-title="⚽Dooballland",One
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/siamsport4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.onefc.com/wp-content/uploads/2026/05/ONE-TIC-FullColor-darkBG-1-300x150.png" group-title="⚽Dooballland",One
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/ch7hd/chunks.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="⚽Dooballland",EVENT/BG 1
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://cdn1.amazaa.live/dbl/event1/chunks.m3u8
