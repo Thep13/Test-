@@ -520,7 +520,18 @@ https://cdn1.amazaa.live/dbl/event1/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://cdn1.amazaa.live/dbl/event2/chunks.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="⚽Dooballland",Major League 1
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/atvp1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="⚽Dooballland",Major League 2
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/atvp2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="⚽Dooballland",Major League 3
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/atvp3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="⚽Dooballland",Major League 4
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/atvp4/chunks.m3u8
 
 
 
