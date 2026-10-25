@@ -532,18 +532,18 @@ https://cdn1.amazaa.live/dbl/atvp3/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://cdn1.amazaa.live/dbl/atvp4/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="Iptv59",TrueSport01
+https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/TSP1.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="Iptv59",TrueSport02
+https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/TSP2.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="Iptv59",TrueSport03
+https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/TSP3.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="Iptv59",TrueSport05
+https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/TSP5.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="Iptv59",TrueSport07
+https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/TSP7.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV59/Pic/refs/heads/main/TrueSport1.jpg" group-title="Iptv59",SportHD 1
-https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/W1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV59/Pic/refs/heads/main/TrueSport2.png" group-title="Iptv59",SportHD 2
-https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/W2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV59/Pic/refs/heads/main/TrueSport3.jpg" group-title="Iptv59",SportHD 3
-https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/W3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV59/Pic/refs/heads/main/TrueSport5.jpg" group-title="Iptv59",SportHD 5
-https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/W5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV59/Pic/refs/heads/main/TrueSport7.jpg" group-title="Iptv59",SportHD 7
-https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/W7.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV59/Pic/refs/heads/main/Golf%2B.png" group-title="Iptv59",GOLF
 https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/Golf%2B.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV59/Pic/refs/heads/main/Truetennis.png" group-title="Iptv59",TENNIS
