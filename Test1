@@ -405,6 +405,17 @@ https://pulse1.sanseny001.shop/kuk4/usergendk9g3ks42t3n.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="⚽Dooballland",Spotv1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/spotv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="⚽Dooballland",Spotv2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://dooballland.com/
+https://cdn1.amazaa.live/dbl/spotv2/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/refs/heads/main/sport/bein1.png" group-title="⚽Dooballland",bein 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://dooballland.com/
