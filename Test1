@@ -378,16 +378,11 @@ https://edge-2.m-fixer.net:8092/stream/monomax/rush/master.m3u8
 https://edge-2.m-fixer.net:8092/stream/monomax/alure/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://shorter.me/TmD2e" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",07:00 WIB Kumamoto Masters Japan 2026
+#EXTINF:-1 tvg-logo="https://shorter.me/yDHTs" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",V1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369795344080061_AiSD.m3u8?txSecret=435367fb51f2e6a2926ef3fab12cd11f&txTime=6AF3E840
-#EXTINF:-1 tvg-logo="https://shorter.me/TmD2e" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",07:00 WIB Kumamoto Masters Japan 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369795457547061_AiSD.m3u8?txSecret=e63985f725cebed27cc8bce0974fabd5&txTime=6AF3E840
-#EXTINF:-1 tvg-logo="https://shorter.me/TmD2e" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",07:00 WIB Kumamoto Masters Japan 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369795560482061_AiSD.m3u8?txSecret=51f840ff958d2dcd313d8ccbb5f1ea62&txTime=6AF3E840
-#EXTINF:-1 tvg-logo="https://shorter.me/TmD2e" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",07:00 WIB Kumamoto Masters Japan 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369795688618061_AiSD.m3u8?txSecret=0d1c58b2307ac9ac15bea55ba54c3171&txTime=6AF3E840
-
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0006/yjbnjyqvnqs94anc2nxtxmxtk6legdwhvqv8/nfiijoujmatnxkpwsm51etk6legdwhvnfp_hls_playlist.m3u8?hdnts=st=1794303981~exp=1794365191~acl=*/yjbnjyqvnqs94anc2nxtxmxtk6legdwhvqv8/*~hmac=cdd668c679a80081234d0533c45e83f053fbceb74faed9d584cd1a822e0b3c83
+#EXTINF:-1 tvg-logo="https://shorter.me/yDHTs" group-title="กีฬา​สด​(ดูได้ตอนถ่ายทอด)​",V2
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0010/zw3rtfxfrgedft0cvp7gvghou6li4ty6memg/snkshysyppala57zuiwpptt6li4ty6mbd1_hls_playlist.m3u8?hdnts=st=1794304005~exp=1794365215~acl=*/zw3rtfxfrgedft0cvp7gvghou6li4ty6memg/*~hmac=ecff7b1f3a38c2a988235fdefa5f7f002f5d95c8028806df5a42aaa79cb8557b
 
 
 
